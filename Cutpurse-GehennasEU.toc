@@ -1,6 +1,6 @@
 ## Interface: 30400
-## Title: Cutpurse-TestList
-## Notes: Example extension addon for Cutpurse
+## Title: Cutpurse-GehennasEU
+## Notes: Cutpurse list of scammers curated by the Gehennas EU discord
 ## Author: Swedge
 ## Version: "@project-version@"
 ## DefaultState: enabled
