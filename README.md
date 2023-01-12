@@ -1,9 +1,9 @@
-# Cutpurse-TestList
-A test list for Cutpurse, showing how to curate your own blocklist via an extension addon for Cutpurse.
+# Scambuster-TestList
+A test list for Scambuster, showing how to curate your own blocklist via an extension addon for Scambuster.
 
-## How to use this template to extend Cutpurse
+## How to use this template to extend Scambuster
 
-First, clone the contents of this repository into a new repository, preferably "Cutpurse-[somename]", e.g. Cutpurse-GolemaggEU.
+First, clone the contents of this repository into a new repository, preferably "Scambuster-[somename]", e.g. Scambuster-GolemaggEU.
 Then there are three files that need tweaks.
 
 ### Table of Contents (toc) file.
@@ -12,16 +12,16 @@ The WoW table of contents files have a strict requirement that your addon's root
 
 As an example, for the Golemagg EU discord we have:
 
-`Addons/Cutpurse-GolemaggEU/Cutpurse-GolemaggEU.toc`
+`Addons/Scambuster-GolemaggEU/Scambuster-GolemaggEU.toc`
 
 ```
 ## Interface: 30400
-## Title: Cutpurse-GolemaggEU
-## Notes: Cutpurse list of scammers curated by the GolemaggEU discord.
+## Title: Scambuster-GolemaggEU
+## Notes: Scambuster list of scammers curated by the GolemaggEU discord.
 ## Author: Swedge
 ## Version: 1.0.0
 ## DefaultState: enabled
-## Dependencies: Cutpurse
+## Dependencies: Scambuster
 ## OptDeps: LibStub
 
 LibStub.lua
@@ -42,10 +42,10 @@ e.g. for Golemagg:
 `settings.lua`
 ```lua
 local _, t = ...
-t.addon_name = "Cutpurse-GolemaggEU"
+t.addon_name = "Scambuster-GolemaggEU"
 t.my_realm = "Golemagg"
 t.my_provider = "Golemagg EU Discord"
-t.my_description = "Cutpurse list of scammers curated by the Golemagg EU discord."
+t.my_description = "Scambuster list of scammers curated by the Golemagg EU discord."
 t.my_url = "https://discord.gg/golemagg"
 ```
 
@@ -91,7 +91,7 @@ At least *one of* the following two are additionally required.
 - `description`: a short description of the incident, what type of scam was perpetrated, etc.
 - `category`: a category, should be one of "dungeon", "raid", "trade", "gdkp", "harassment". If none of these, is ignored.
   
-The following fields are optional, and can help Cutpurse better track scammers, and help your users tailor their experience using the addon more closely:
+The following fields are optional, and can help Scambuster better track scammers, and help your users tailor their experience using the addon more closely:
 - `guid`: the player's GUID. This is *highly recommended* to include, as paid name changes retain the same GUID. This will also stop a false-positive from pinging if a scammer renames and someone else takes up the now-vacant name.
 - `class`: the player's class, in allcaps, no spaces English, e.g. DRUID, DEATHKNIGHT, WARLOCK etc. For more info see: https://wowpedia.fandom.com/wiki/API_UnitClass
 - `faction` - the player's faction. "Horde" or "Alliance".

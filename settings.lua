@@ -5,7 +5,7 @@ local _, t = ...
 
 -- Set this to be your addon name. This *has to be* the same name as your root addon
 -- folder and the same name as in your Table of Contents (.toc) file!
-t.addon_name = "Cutpurse-GehennasEU"
+t.addon_name = "Scambuster-GehennasEU"
 
 -- Set this variable to whatever realm your list is for.
 -- e.g. Golemagg, Firemaw, Gehennas etc.

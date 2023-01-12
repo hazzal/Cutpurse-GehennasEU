@@ -1,10 +1,10 @@
 ## Interface: 30400
-## Title: Cutpurse-GehennasEU
-## Notes: Cutpurse list of scammers curated by the Gehennas EU discord
+## Title: Scambuster-GehennasEU
+## Notes: Scambuster list of scammers curated by the Gehennas EU discord
 ## Author: Swedge
 ## Version: "@project-version@"
 ## DefaultState: enabled
-## Dependencies: Cutpurse
+## Dependencies: Scambuster
 ## OptDeps: LibStub
 
 LibStub.lua

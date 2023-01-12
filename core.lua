@@ -1,5 +1,5 @@
 --=========================================================================================
--- This module contains the interface with Cutpurse and should not be altered.
+-- This module contains the interface with Scambuster and should not be altered.
 --=========================================================================================
 local _, t = ...
 local provider_table = {
@@ -12,6 +12,6 @@ local provider_table = {
     }
 }
 
--- Register the list with cutpurse.
-local CP = LibStub("AceAddon-3.0"):GetAddon("Cutpurse")
+-- Register the list with Scambuster.
+local CP = LibStub("AceAddon-3.0"):GetAddon("Scambuster")
 CP:register_case_data(provider_table)

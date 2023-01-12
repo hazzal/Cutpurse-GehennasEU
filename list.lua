@@ -30,7 +30,7 @@ t.case_table = {
                 guid="Player-4476-039AA31B",
             },
             {
-                name="Unforgivén"
+                name="Unforgivén",
                 aliases={"Malfari"},
                 guid="Player-4476-3D02739",
             },
@@ -152,7 +152,7 @@ t.case_table = {
                 name= "Beast",
                 guid="Player-4476-00827775",
             },
-        }
+        },
         description = "Looting everything for disenchant, but leaves instead of rolling shards. Not giving out cuts in GDKP",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1004382605082374284",
         
@@ -189,9 +189,10 @@ t.case_table = {
                 guid="Player-4476-02E838B8",
                 
             },
+            --[[ Maybe not real character?
             {
                 name= "Mimsii"
-            },
+            },--]]
             {
                 name= "Vindmcflurry",
                 guid="Player-4476-01E3EA20",
@@ -218,9 +219,10 @@ t.case_table = {
     
     {
         players={
+            --[[
             {
                 name="Armir" --I believe this might be a discord name?
-            },
+            },]]
             {
                 name= "Sacrificer",
                 guid="Player-4476-02DAF799",
@@ -427,51 +429,63 @@ t.case_table = {
     {
         name= "Seekout",
         guid="Player-4476-038C3344",
+        description = "DESC",
+        url = "url",
     },
     {
         name= "Taurock",
         guid="Player-4476-03448366",
-    },
-    {
-        name= "Egokiller",
-        guid="Player-4476-02AA93FB",
+        description = "DESC",
+        url = "url",
     },
     {
         name= "Dockyard",
         guid="Player-4476-03958128",
+        description = "DESC",
+        url = "url",
     },
     {
         name= "Mxtx",
         guid="Player-4476-034B009A",
+        description = "DESC",
+        url = "url",
     },
     {
         name= "Daafi",
         guid="Player-4476-0391C5A9",
+        description = "DESC",
+        url = "url",
     },
 
     {
         name= "Tfuee",
         guid="Player-4476-033C8AA6",
-    },
-    {
-        name= "Pullarbear",
-        guid="Player-4476-0440A642",
+        description = "DESC",
+        url = "url",
     },
     {
         name= "Bloodykael",
         guid="Player-4476-0391C105",
+        description = "DESC",
+        url = "url",
     },
     {
         name= "Plainjanee",
         guid="Player-4476-038E4EA4",
+        description = "DESC",
+        url = "url",
     },
     {
         name= "Itseperkele",
         guid="Player-4476-03B7CF9C",
+        description = "DESC",
+        url = "url",
     },
     {
         name= "Doomform",
         guid="Player-4476-03B8D488",
+        description = "DESC",
+        url = "url",
     },
     {
         name= "Danoób",
@@ -500,10 +514,6 @@ t.case_table = {
     {
         name= "Zaboljesutra",
         guid="Player-4476-03AE51DF",
-    },
-    {
-        name= "Mìstress",
-        guid="Player-4476-04533B53",
     },
     {
         name= "Baratheus",
@@ -536,10 +546,6 @@ t.case_table = {
     {
         name= "Halman",
         guid="Player-4476-00E0C54E",
-    },
-    {
-        name= "Dadapolis",
-        guid="Player-4476-04B8FE2C",
     },
     {
         name= "Lisaler",
@@ -638,10 +644,6 @@ t.case_table = {
     {
         name= "Överdängare",
         guid="Player-4476-04CC728A",
-    },
-    {
-        name= "Bigboipulls",
-        guid="Player-4476-04894170",
     },
     {
         name= "Boomblast",
@@ -793,11 +795,12 @@ t.case_table = {
                 name= "Priapizim",
                 guid="Player-4476-0399B696",
             },
+            --[[ I believe this is another person and have commented out this entry for now.
             {
                 name= "Qdiin",
                 guid="Player-4476-03B9DAFD",
                 aliases= {"Qdin"},
-            },
+            },--]]
             {
                 name= "Bigbonie",
                 guid="Player-4476-0393B75A",
@@ -807,7 +810,7 @@ t.case_table = {
                 name= "Tauntslave",
                 guid="Player-4476-039D19AE",
             },            
-        }
+        },
         description = "Multiple offenses of scamming in GDKP, being scummy with not rolling out loot, taking pot.",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/999029541785849917",
     },
@@ -847,13 +850,44 @@ t.case_table = {
                 guid="Player-4476-04372DC6",
             },
             {
+                name= "Mìstress",
+                guid="Player-4476-04533B53",
+            },
+            {
                 name= "Titidriveby",
                 guid="Player-4476-04A56DA5",
-            }
+            },
         },
         description = "Kicking for withheld reasons at the end of a 6 hour raid, and then later refusing to give goldcut when said kicked player was found innocent",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1028727680507588608",
     },
+    {
+        players={
+            {
+                name= "Pallartanka",
+                guid="Player-4476-033EF849",
+            },
+            {
+                name= "Egokiller",
+                guid="Player-4476-02AA93FB",
+            },
+            {
+                name= "Pullarbear",
+                guid="Player-4476-0440A642",
+            }, 
+            {
+                name= "Dadapolis",
+                guid="Player-4476-04B8FE2C",
+            },
+            {
+                name= "Bigboipulls",
+                guid="Player-4476-04894170",
+            },
+        },
+        description = "Ninjaed Deathbringer 1 year into classic. 21 days after that he took both idols in a ZG. Had a break, came back to Ninja items early TBC keeping gruul loot for himself. One year after now  back ninjaing Fiery Warhorse Reins and scamming with multiple chars. Egokiller is already banned on the discord a very long time ago.  EDIT DOING SAME THING IN WOTLK! Dog never learns",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1039514984817897512",
+    },
+
 
 }
 --=========================================================================================
@@ -861,3 +895,23 @@ t.case_table = {
 --=========================================================================================
 --description = "DESC",
 --url = "URL",
+
+--Multichar templata:
+--[[
+    {
+        players={
+            {
+                name= "1",
+                guid="1",
+            },
+            {
+                name= "2",
+                guid="2",
+            },          
+        }
+        description = "DESC",
+        url = "URL",
+    },
+
+
+]]
