@@ -1,7 +1,7 @@
 ## Interface: 30400
 ## Title: Scambuster-GehennasEU
 ## Notes: Scambuster list of scammers curated by the Gehennas EU discord
-## Author: Swedge
+## Author: Swedge and Hazal
 ## Version: "@project-version@"
 ## DefaultState: enabled
 ## Dependencies: Scambuster
