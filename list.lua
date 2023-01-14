@@ -9,11 +9,11 @@ local _, t = ...
 
 t.case_table = {
     {
-        name= "Hanago",
+        name= "Blackyqt",
         guid="Player-4476-043EFD7F",
-        description = "Scamming entire gdkp pot",
+        description = "Scamming entire gdkp pot multiple times",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1039641627347669047",
-        aliases= {"Worldstarxtv", "Chainshocks", "Showmelove", "Youngdawg", "Blástér", "Máverick"},        
+        aliases= {"Worldstarxtv", "Chainshocks", "Showmelove", "Youngdawg", "Blástér", "Máverick","Hanago"},        
     },
     {
         players={
@@ -34,9 +34,11 @@ t.case_table = {
                 aliases={"Malfari"},
                 guid="Player-4476-3D02739",
             },
+            --[[ Not sure if this is the correct Unforgiven as you can see we have the correct one above
             {
-                
-            },
+                name= "Unforgivén",
+                guid="Player-4476-01080F6D",
+            },]]
         },
         description = "Leaders of Moonlight GDKP (Light of Dawn GDKP scamaz renamed) The usual skimming of pots, scamming of pots and making up rules for deductions (+ kindergarden english)",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1015956195263139890",
@@ -429,361 +431,554 @@ t.case_table = {
     {
         name= "Seekout",
         guid="Player-4476-038C3344",
-        description = "DESC",
-        url = "url",
+        description = "Multiple episodes of scamming GDKP, unstructured leading and giving cut or removing cut as he pleases.",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/999037384429670581",
     },
     {
-        name= "Taurock",
-        guid="Player-4476-03448366",
-        description = "DESC",
-        url = "url",
+        players={
+            {
+                name= "Taurock",
+                guid="Player-4476-03448366",
+            },
+            {
+                name= "Teloo",
+                guid="Player-4476-03484C7A",
+            },
+        },
+        description = "Scamming multiple karazhan/gruul gdkps and SR along with aforementioned Winron and more.MULTIPLE OFFENSES. The birth of ‘I give item to Winron. Winron deal more dmg’ ",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/999027805994090607",
     },
     {
-        name= "Dockyard",
-        guid="Player-4476-03958128",
-        description = "DESC",
-        url = "url",
+        players={
+            {
+                name= "Dockyard",
+                guid="Player-4476-03958128",
+            },
+            {
+                name= "Plainjanee",
+                guid="Player-4476-038E4EA4",
+                aliases={"Soulsnatcha"},
+            },
+        },
+        description = "Multiple offenses of scummy, scamming GDKPS. Oasis GDKP. + racist",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/999036129078677514",
     },
     {
-        name= "Mxtx",
-        guid="Player-4476-034B009A",
-        description = "DESC",
-        url = "url",
+        players={
+            {
+                name= "Dockyard",
+                guid="Player-4476-03958128",
+            },
+            {
+                name= "Bubbleoseven",
+                guid="Player-4476-033E9F72",
+                aliases= {"Bananalight"},
+                
+            },
+            
+        },
+        description = "Shared effort of ninjaing staff from EoE10, Dockyard is previously 'actually blacklisted'.",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1032695556973281450",
     },
     {
-        name= "Daafi",
-        guid="Player-4476-0391C5A9",
-        description = "DESC",
-        url = "url",
+        players={
+            {
+                name= "Mxtx",
+                guid="Player-4476-034B009A",
+            },
+            {
+                name= "Mxty",
+                guid="Player-4476-04326437",
+            },
+        },
+        description = "General scammer, scamming people out of everything from cuts to enchanting mats. When questioned about not paying people cuts proceeds to become incredible childish asking for people for pics of their hairline. Becomes abusive/rude when confronted. Multiple offences",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1018865335228710913",
     },
-
     {
-        name= "Tfuee",
-        guid="Player-4476-033C8AA6",
-        description = "DESC",
-        url = "url",
+        players={
+            {
+                name= "Daafi",
+                guid="Player-4476-0391C5A9",
+            },
+            {
+                name= "Leniz",
+                guid="Player-4476-03AE5CD7",
+            },
+            {
+                --Likely transferred
+                name="Mdontank",
+                guid="Player-4476-3AE5CD7"
+            },
+            {
+                name="Igani",
+                guid="Player-4476-03AE8FC0"
+            }
+        },
+        description = "Known scammer all the way from Noggenfogger. MULTIPLE offenses. Part of the ‘’Monopoly/Zencats GDKP’’ which is basically goldselling cover. Multiple offenses of keeping pot, not rolling out items, etc.etc ",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/999029531526574170",
     },
     {
         name= "Bloodykael",
         guid="Player-4476-0391C105",
-        description = "DESC",
-        url = "url",
-    },
-    {
-        name= "Plainjanee",
-        guid="Player-4476-038E4EA4",
-        description = "DESC",
-        url = "url",
+        description = "Bloodykael signed to our BT said he \"will definitely come\". Went to another GDKP instead and claimed his friend died and that's why he couldn't come.",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/999036319751733358",
     },
     {
         name= "Itseperkele",
         guid="Player-4476-03B7CF9C",
-        description = "DESC",
-        url = "url",
+        description = "Ninjaing gems in MH, seems to be his thing.. Multiple offenses.",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/999038282342072361",
     },
     {
-        name= "Doomform",
-        guid="Player-4476-03B8D488",
-        description = "DESC",
-        url = "url",
+        players={
+            {
+                name= "Dôndada",
+                guid="Player-4476-0239D20E",
+            },
+            {
+                name= "Doomform",
+                guid="Player-4476-03B8D488",
+            },
+        },
+        description = "Scamming gdkp items for himself, forcing buyers to buy EVERYTHING (7th bis or fake buyer) and he takes their cut if they dont. He doesn’t even try to defend himself (or does so really poorly by ignoring straight facts), he accepts he is a scammer and will do it again. Kaamos - the guild he was in and STILL IS (20.06.2022) refusing to do anything about it. Read the entire thread, it’s a good read and will instantly give you an idea of what kind of person this is. (DO NOT UNDER ANY CIRCUMSTANCE JOIN ANY CONTENT WITH THIS GUY).",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/999038950893158420",
     },
     {
-        name= "Danoób",
-        guid="Player-4476-0392E481",
+        players={
+            {
+                name= "Danoób",
+                guid="Player-4476-0392E481",
+            },
+            {
+                name= "Baratheus",
+                guid="Player-4476-03BDDB46",
+            },
+        },
+        description="hosts hyjal rep farm with roll on items , the fist that is good for hunters drop he puts alll items for roll besides for it. Founding father of /lastbosskickpumpers meme. my roter felt down, by my cat, and i had disconnected, but i reconnected into discord again, and i said that my cat fault, and he said ok ",
+        url="https://discord.com/channels/611132910992490506/998986805477126324/999032786193219584",
+    },
+        
+    {
+        players={
+            {
+                name= "Akun",
+                guid="Player-4476-044445EB",
+            },
+            {
+                name= "Outlow",
+                guid="Player-4476-04324AF1",
+            },
+        },
+        description="Main character of Gehennas, absolute gigachad from the land of the cursed. Started out young and small with leaving dungeon groups, kicking people from dungeons without reason and being a ‘faek bayer’ in raids. Trying to join GDKPS as ‘pum’ with grey 3 parses. As his gear progressed from communal + green healing gear + dodge rating trinket,  he started scamming SWP trash farms with a known villain called Guraman. Zero english capabilities. ",
+        url="https://discord.com/channels/611132910992490506/998986805477126324/1002620302703988786",
     },
     {
-        name= "Akun",
-        guid="Player-4476-044445EB",
+        {
+            {
+                name= "Exw",
+                guid="Player-4476-034FA73D",
+            },
+            {
+                name= "Exm",
+                guid="Player-4476-0376C535",
+            },
+        },
+        description="Multiple offenses of shady gdkps, making up rules, kicking buyers who bid and taking extra cut.",
+        url="https://discord.com/channels/611132910992490506/998986805477126324/999037767113781248",
     },
     {
-        name= "Exw",
-        guid="Player-4476-034FA73D",
+        players={
+            {
+                name= "Zaboljesutra",
+                guid="Player-4476-03AE51DF",
+                aliases="Traficpeople", 
+            },
+            {
+                name= "Munemmunem",
+                guid="Player-4476-02D9A2C0",
+                aliases={"Moskri"}
+            },    
+            -- Missing names: Ubicaamecog & Jebevitar 
+        },
+        description = "Multiple offenses in a span of a year.GDKP scams, deathroll scams.",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/999037355254095922",
     },
-    {
-        name= "Dôndada",
-        guid="Player-4476-0239D20E",
-    },
-    {
-        name= "Akro",
-        guid="Player-4476-0050EF1F",
-    },
-    {
-        name= "Unforgivén",
-        guid="Player-4476-01080F6D",
-    },
-    {
-        name= "Zaboljesutra",
-        guid="Player-4476-03AE51DF",
-    },
-    {
-        name= "Baratheus",
-        guid="Player-4476-03BDDB46",
-    },
+    
     {
         name= "Sgtdoakes",
         guid="Player-4476-04431001",
+        description = "ML bugged in EoE25 and ninja'd Wanton Legs",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1048272517497880596",
     },
     {
-        name= "Lindapira",
-        guid="Player-4476-03845738",
+        players={
+            {
+                name= "Carrerá",
+                guid="Player-4476-0484B5A0",
+            },
+            {
+                name= "Eldottar",
+                guid="Player-4476-047E7E1F",
+                aliases={"Elwir",}
+            },    
+            {
+                name= "Lindapira",
+                guid="Player-4476-03845738",
+            },  
+        },
+        description = "Lindapira unlocking SR sheet during raid for his friend, Carrerá, to change his SR based on what had already dropped in the raid",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1042720490185310209",
     },
+    
     {
-        name= "Kektorr",
-        guid="Player-4476-02D6B7F7",
+        players={
+            {
+                name= "Kektorr",
+                guid="Player-4476-02D6B7F7",
+            },
+            --Sreti Probably Kektorr/Kaynn name before transfer to Jehaness as Sreti exists as warrior on Firemaw looking at WCL 
+            {
+                name= "Healthyy",
+                guid="Player-4476-0347B629",
+            },        
+        },
+        description = "Scammed all of pot in a gruul GDKP, AND a Kara GDKP - multiple offenses. Works together with a player named Despairxd (atleast for some of the scams)",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1017832612137545820",
     },
+    
     {
         name= "Búbblës",
         guid="Player-4476-03A492BB",
+        description = "Ninja'd tank items in SR run, pretending that other people who could roll for the item do not exist",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1043482217973809182",
     },
     {
         name= "Sandersorr",
         guid="Player-4476-03465388",
+        description = "Scamming gdkps, making up rules, kicking everyone not giving out loot",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/999034863917203467",
     },
     {
-        name= "Avatarstate",
-        guid="Player-4476-03AF1BDF",
-    },
-    {
-        name= "Halman",
-        guid="Player-4476-00E0C54E",
+        players={
+            {
+                name= "Shiky",
+                guid="Player-4476-03A370D8",
+            },
+            {
+                name= "Shikyy",
+                guid="Player-4476-03A3AC5B",
+            },
+            {
+                name= "Avatarstate",
+                guid="Player-4476-03AF1BDF",
+            },
+            {
+                name= "Heydarling",
+                guid="Player-4476-03A0874F",
+            },
+            {
+                name= "Hornybich",
+                guid="Player-4476-03A21233",
+            },
+            {
+                name= "Childmebro",
+                guid="Player-4476-03B9097E",
+            },      
+        },
+        description = "Ninjaed Ashes of A’lar in a gbid advertised as Ashes Gbid.",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/999028176623763577",
     },
     {
         name= "Lisaler",
         guid="Player-4476-043906AA",
+        aliases={"Blastblast"},
+        description = "Stealing GDKP pots, pretending to give them out later. Leave raid > log off into name change",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1041776959853707285",
     },
     {
-        name= "Bravedudu",
-        guid="Player-4476-043F80B0",
+        players={
+            {
+                name= "Bravedudu",
+                guid="Player-4476-043F80B0",
+            },
+            {
+                name= "Oxlide",
+                guid="Player-4476-03B2667A",
+            },        
+        },
+        description = "GDKP hosts, both logged off with 100k+ pot",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1042862458559270972",
     },
     {
-        name= "Pìnky",
-        guid="Player-4476-038A756B",
-    },
+        players={
 
-    {
-        name= "Leniz",
-        guid="Player-4476-03AE5CD7",
+            {
+                name= "Mamichulaxo",
+                guid="Player-4476-03D648E2",
+            },
+            --[[ missing data for player: Akrø. 
+            { 
+                name= "",
+                guid="",
+            }, ]]   
+            {
+                name= "Pìnky",
+                guid="Player-4476-038A756B",
+            },      
+        },
+        description = "Previous GM of Checkmate. Tried to defend himself, failed miserably. Buying arena boosts, getting called out, changing server, changing name, trying to hide from responsibility. Kekmate later renamed to Blur for a ‘rebrand’ but turned out is was same old same old. Started recruiting in lucrative ways to prevent bot from catching them. Overall a bad gang",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/999024451649814558",
     },
     {
-        name= "Childmebro",
-        guid="Player-4476-03B9097E",
-    },
-    {
-        name= "Weezyrheezy",
-        guid="Player-4476-043D6326",
-    },
-    {
-        name= "Munemmunem",
-        guid="Player-4476-02D9A2C0",
-    },
-    {
-        name= "Themaze",
-        guid="Player-4476-0389EDE4",
-    },
-    {
-        name= "Bubbleoseven",
-        guid="Player-4476-033E9F72",
-        aliases= {"Bananalight"},
-        
+        players={
+            {
+                name= "Boomblast",
+                guid="Player-4476-0441C05F",
+            }, 
+            {
+                name= "Fattylicous",
+                guid="Player-4476-0260C831",
+                aliases={"Parapass"}
+            },
+            {
+                name= "Snéaký",
+                guid="Player-4476-02C4C687",
+                aliases={"Wéézy"}
+            },
+            {
+                name= "Weezyrheezy",
+                guid="Player-4476-043D6326",
+            },
+            {
+                name= "Barbiegurl",
+                guid="Player-4476-033434DB",
+                aliases={"Weezý"},
+            },
+            {
+                name= "Incarnáted",
+                guid="Player-4476-039971B9",
+            },
+            {
+                name= "Itiswhatitis",
+                guid="Player-4476-02141FD0",
+            },          
+        },
+        description = "Try searching his names on this discord for a laugh. Part of the Checkmate drama. Ninjalooted ring of a thousand marks, Gorehowl and T4 helm token. Denied he was the person, ended up being the biggest meme on Gehennas. Renamed his GDKP from Para GDKP to Qyinc GDKP because of the flame. The GDKP is now called Huniepies GDKP, unsure how active it is or how scummy it still is, but I (Scooter) am pre-banned from there without having anything to do with them.",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/999023515992850543",
     },
     {
         name= "Pazuzo",
         guid="Player-4476-047F9186",
+        aliases={"Sinisterra"},
+        description = "Ninja'd mount and Surge Needle Ring from EoE10. Pretended to switch servers (didn't)",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1046067666005274755",
     },
     {
         name= "Hugtime",
         guid="Player-4476-4CFCFC0",
         aliases= {"Dboyx"},
+        description = "Lost roll in an ms/os run, refused to trade said item and kick people as a result. Raid regrouped without him and finished the run. ",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1056976618251362445",
         
     },
     {
         name= "Gpx",
         guid="Player-4476-0401284E",
-    },
-    {
-        name= "Snéaký",
-        guid="Player-4476-02C4C687",
-    },
-    {
-        name= "Healthyy",
-        guid="Player-4476-0347B629",
-    },
-    {
-        name= "Shikyy",
-        guid="Player-4476-03A3AC5B",
+        description = "Fake DC from pugs once his SR doesn't drop",
+		url = "https://discord.com/channels/611132910992490506/998986805477126324/1046175238272057454",
     },
     {
         name= "Wtheo",
         guid="Player-4476-04B00111",
-    },
-    {
-        name= "Eldottar",
-        guid="Player-4476-047E7E1F",
-    },
-    {
-        name= "Jookeerr",
-        guid="Player-4476-03A74903",
+        description = "Ninja'd half of the Naxxramas loot table",
+		url = "https://discord.com/channels/611132910992490506/998986805477126324/1030010015123251210",
     },
     {
         name= "Hymora",
         guid="Player-4476-0375A0DA",
+        description = "Completely unable to communicate in any language sort of resembling english, also doing GDKP scams, kicking people without a reason, goldbanning people without reason, claiming fake buyers when those players bid. ''We just fired the counterfeit buyers and distributed the gold among the members of the raid. The counterfeit buyers told us that we had a lot of gold, for example 15,000, but some of them did not buy anything and closed the deals at 2,500 gold. It is our duty to expel the fake buyers and to divide the gold between the professional players and the real buyers. And we did exactly that. People must learn not to cheat in the game and not to lie so that these problems do not happen again''",
+		url = "https://discord.com/channels/611132910992490506/998986805477126324/1000394944730640424",
     },
     {
         name= "Åbäker",
         guid="Player-4476-043E9321",
-    },
-    {
-        name= "Mamichulaxo",
-        guid="Player-4476-03D648E2",
+        aliases={"Zarakisense"},
+        description = "Ninja'd the GDKP pot of 8k~ and went offline without giving cuts",
+		url = "https://discord.com/channels/611132910992490506/998986805477126324/1016090857922908201",        
     },
 
     {
         name= "Olen",
-        guid="Player-4476-0106825B",
+        guid="Player-4476-0106825B", 
+        description = "Previously officer of Checkmate, defending ninjalooting and scamming. Led the guild with Mamichulaxo who was the GM, also scamming and buying arena boosts for the gold",
+		url = "https://discord.com/channels/611132910992490506/998986805477126324/999023905425596546",
     },
     {
-        name= "Överdängare",
-        guid="Player-4476-04CC728A",
+        players={
+            {
+                name= "Aizensama",
+                guid="Player-4476-040A56DE",
+            },
+            { 
+                --Seems to have transferred/deleted but still listing just in case
+                name= "Soulstore",
+                guid="Player-4476-043E9224",
+                aliases={"Holyvanda","Onyyx"},
+            },
+            {
+                --Seems to have transferred/deleted but still listing just in case
+                name= "Muostang",
+                guid="Player-4476-043E92F7",
+                aliases={"Shockele"},
+            },
+            {
+                name= "Överdängare",
+                guid="Player-4476-04CC728A",
+            },
+            --Güccii unable to find
+            {
+                name= "Illusen",
+                guid="Player-4476-043E8F65",
+                aliases={"Aizensamaa","Herrdämon"},
+            },
+        },
+        description = "Dada who is also blacklisted on Firemaw, known for scamming gdkps (taking entire cut, hosting shit raids and being aggressive, making up loot rules on the spot). Recently started scamming (even more) and blaming Gehennas discord for it. Fun guy, avoid at ALL cost. Changing his discord# every day so remember to check the discord ID! ",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1017764617134555208",
     },
-    {
-        name= "Boomblast",
-        guid="Player-4476-0441C05F",
-    },
+
     {
         name= "Fantoomreza",
         guid="Player-4476-0397D7CE",
+        description = "On his own level of being foreign af. Doesn’t speak anywhere near understandable English. Scammed Quagmirron’s Eye and is hosting GDKPS that always turn out to be a shitshow with no leading and scummy rules. ",
+		url = "https://discord.com/channels/611132910992490506/998986805477126324/999033503217889471",
     },
-    {
-        name= "Illusen",
-        guid="Player-4476-043E8F65",
-    },
+    
     {
         name= "Palimoe",
         guid="Player-4476-03967DF9",
-    },
-    {
-        name= "Itiswhatitis",
-        guid="Player-4476-02141FD0",
+        description = "Ninja'd Naxx 25 ring - people rolled, he lost, went offline with it",
+		url = "https://discord.com/channels/611132910992490506/998986805477126324/1039898707782549586",
     },
     {
         name= "Soshiyant",
         guid="Player-4476-03AD2B83",
+        description = "From land of the cursed, disaster gdkp scams, no communication skills, leading gdkps with Baratheus / Danoob /Lastbosskickpumpers",
+		url = "https://discord.com/channels/611132910992490506/998986805477126324/1000390084119515218",
     },
     {
         name= "Dneef",
         guid="Player-4476-039CA9A7",
+        description = "Making up loot rules on the spot in GDKP, scamming SP boost. Multiple offenses of subhuman behaviour",
+		url = "https://discord.com/channels/611132910992490506/998986805477126324/1034880403074453504",
     },
     {
         name= "Xanika",
         guid="Player-4476-049984A5",
-    },
-    {
-        name= "Mxty",
-        guid="Player-4476-04326437",
+        description = "Scamming profession materials",
+		url = "https://discord.com/channels/611132910992490506/998986805477126324/1041059447545540608",
     },
     {
         name= "Nesk",
         guid="Player-4476-0390735B",
+        description = "Taking entire gruul-mag GDKP split and logging off",
+		url = "https://discord.com/channels/611132910992490506/998986805477126324/999023164149481544",
     },
     {
         name= "Critfiesta",
         guid="Player-4476-043D11AE",
+        description = "Rolled MS on shoulders to ninja them despite having bis equipped. RL didn't pick up on it or didn't care.",
+		url = "https://discord.com/channels/611132910992490506/998986805477126324/1057740107639164948",
     },
     {
-        name= "Arsacid",
-        guid="Player-4476-0394E41C",
+        players={
+            {
+                name= "Badtargetx",
+                guid="Player-4476-04B75E91",
+                aliases={"Muttjuice"},
+            },
+            {
+                name= "Catsndogsott",
+                guid="Player-4476-0393F3F7",
+            },          
+        },
+        description = " Pre-meditated ninja whereby raidleader Catsndogsott passes ML to Muttjuice before KT death and ultimately leads to items getting ninja'd. Catsndogsott playing dumb",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1044993714407354471",
     },
-    {
-        name= "Badtargetx",
-        guid="Player-4476-04B75E91",
-    },
+    
     {
         name= "Zarahmar",
         guid="Player-4476-04A0F5C2",
+        description = "Mentally ill ninjalooter from guild Bad Form. Took Greatring of Collision for himself despite losing the roll. Doesn't even try to combat it just makes bad excuses and at the end tries to brag about his gearscore while having trash parses :SMILERS:",
+		url = "https://discord.com/channels/611132910992490506/998986805477126324/1046515698496704572",
     },
     {
         name= "Healstoned",
         guid="Player-4476-043E7F04",
-    },
-    {
-        name= "Fattylicous",
-        guid="Player-4476-0260C831",
+        description = "Raidleader of SWP GDKP, ninja'd 15k without giving out cuts",
+		url = "https://discord.com/channels/611132910992490506/998986805477126324/1021379976731303946",
     },
     {
         name= "Nosoyfacha",
         guid="Player-4476-0480AB83",
+        description = "Scamming entire GDKP pot.",
+        aliases={"Willyrexfan", "Spañolizador" },
+		url = "https://discord.com/channels/611132910992490506/998986805477126324/1023322385501405335",
     },
     {
-        name= "Raayman",
-        guid="Player-4476-03B78F96",
-    },
-    {
-        name= "Mikasasucaså",
-        guid="Player-4476-04647312",
-    },
-    {
-        name= "Aizensama",
-        guid="Player-4476-040A56DE",
-    },
-    {
-        name= "Sheeky",
-        guid="Player-4476-046844E3",
-    },
-    {
-        name= "Hornybich",
-        guid="Player-4476-03A21233",
-    },
-    {
-        name= "Exm",
-        guid="Player-4476-0376C535",
-    },
-    {
-        name= "Heydarling",
-        guid="Player-4476-03A0874F",
-    },
-    {
-        name= "Outlow",
-        guid="Player-4476-04324AF1",
+        players={
+            {
+                name= "Mikasasucaså",
+                guid="Player-4476-04647312",
+            },
+            {
+                name= "Tfuee",
+                guid="Player-4476-033C8AA6",                
+            },       
+        },
+        description = "Hosting raids without HR, ninjas them when they drop",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1050799646081028218",
     },
     {
         name= "Dendro",
         guid="Player-4476-0446B89E",
-    },
-    {
-        name= "Larakiri",
-        guid="Player-4476-0473BB51",
-    },
-    {
-        name= "Incarnáted",
-        guid="Player-4476-039971B9",
+        description = "Ninjaing items in SR raids, took KT mace after pretending to give it out",
+		url = "https://discord.com/channels/611132910992490506/998986805477126324/1036221196947173406",
     },
     {
         name= "Tastycake",
         guid="Player-4476-0435B4AD",
+        description = "Ninja'd a bunch of Naxx loot including Turning Tide",
+		url = "https://discord.com/channels/611132910992490506/998986805477126324/1039145870479855616",
     },
     {
         name= "Knivhuggaren",
         guid="Player-4476-039DCEE4",
+        description = "DST ninja in SR. Lost roll but kept DST and left. ",
+		url = "https://discord.com/channels/611132910992490506/998986805477126324/999031206656098394",
     },
     {
         name= "Darknesswow",
         guid="Player-4476-039FB0B2",
+        description = "Tried to scam GDKP by pretending an item didnt drop. Bid it up himself even he had no gold, scammed pot. ",
+		url = "https://discord.com/channels/611132910992490506/998986805477126324/999030526998491166",
     },
     {
-        name= "Ilkku",
+        name= "Ilkku", --also listed Paulalehma in blacklist entry but can't find, presuming discord name.
         guid="Player-4476-013ADC55",
-    },
-    {
-        name= "Oxlide",
-        guid="Player-4476-03B2667A",
+        description = "Ninjaing all gruul tokens in a SR-run. Ninjaing all loot in Magtheridon aswell. Regularly pulling extra trash to wipe raids",
+		url = "https://discord.com/channels/611132910992490506/998986805477126324/999031933998739486",
     },
     {
         name= "Majedm",
         guid="Player-4476-03AA9718",
+        description = "Leaving after getting ‘’what he wants’’ from raid. Selfish subhuman behaviour",
+		url = "https://discord.com/channels/611132910992490506/998986805477126324/999037778392256542",
     },
     {
         name= "Deuuas",
         guid="Player-4476-0399C25A",
+        description = "Changes SR after bosskills to “troll kids”",
+		url = "https://discord.com/channels/611132910992490506/998986805477126324/1050108311162323015",
     },
     {
         players={
@@ -871,6 +1066,7 @@ t.case_table = {
                 name= "Egokiller",
                 guid="Player-4476-02AA93FB",
             },
+            --Unable to find Spartanen 
             {
                 name= "Pullarbear",
                 guid="Player-4476-0440A642",
@@ -893,25 +1089,3 @@ t.case_table = {
 --=========================================================================================
 -- The provider_table is configured with the above variables, you don't need to touch this.
 --=========================================================================================
---description = "DESC",
---url = "URL",
-
---Multichar templata:
---[[
-    {
-        players={
-            {
-                name= "1",
-                guid="1",
-            },
-            {
-                name= "2",
-                guid="2",
-            },          
-        }
-        description = "DESC",
-        url = "URL",
-    },
-
-
-]]
