@@ -373,9 +373,10 @@ t.case_table = {
                 name= "Beng",
                 guid="Player-4476-03ADF489",                       
             },
-            description = "Two man scam of a DST gbid. Logging out with pot",
-            url = "https://discord.com/channels/611132910992490506/998986805477126324/999024861567533128", 
+            
         },
+        description = "Two man scam of a DST gbid. Logging out with pot",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/999024861567533128", 
     },
     {
         players={
@@ -573,7 +574,7 @@ t.case_table = {
         url="https://discord.com/channels/611132910992490506/998986805477126324/1002620302703988786",
     },
     {
-        {
+        players={
             {
                 name= "Exw",
                 guid="Player-4476-034FA73D",
