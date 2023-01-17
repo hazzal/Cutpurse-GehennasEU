@@ -217,10 +217,9 @@ t.case_table = {
                 guid="Player-4476-0351A212",
             },
         },
-        description = "Part of the gang of scammers doing gdkp for gold to sell for real life currency. LOTS to unpack about this players and the guild/gang he is involved with. Rarely does any scam himself, it’s part of a bigger operation. First mentioned 03.01.2022 but going on for 6 months everytime there is a shady GDKP, he is involved.",
+        description = "Raidleader which incorrectly gave a softreserved item to another player - Kicking players for unclear reasons and keeping their goldcut",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/999027570773332028",
     },
-    
     {
         players={
             --[[
