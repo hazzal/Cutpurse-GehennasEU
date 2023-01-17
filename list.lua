@@ -41,7 +41,8 @@ t.case_table = {
                 guid="Player-4476-01080F6D",
             },]]
         },
-        description = "Leaders of Moonlight GDKP (Light of Dawn GDKP scamaz renamed) The usual skimming of pots, scamming of pots and making up rules for deductions (+ kindergarden english)",
+        description = "Stole gold from the pot",
+        category="gdkp",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1015956195263139890",
     },
     {
