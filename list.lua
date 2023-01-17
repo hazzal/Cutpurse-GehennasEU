@@ -68,10 +68,10 @@ t.case_table = {
                 guid="Player-4476-02F7D307",
             },
         },
-        
-        description = "Scammy GDKP with multiple leaders. Kicking and not giving cut to several players. Letting loot time out and then kicking people for critiquing that they let it time out.",
+        description = "Kicking players for unclear reasons and keeping their goldcut",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1041777735103692901",
-        
+        category = "gdkp",
+
     },
     {
         name= "Lainmay",
