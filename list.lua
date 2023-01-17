@@ -219,6 +219,8 @@ t.case_table = {
         },
         description = "Raidleader which incorrectly gave a softreserved item to another player - Kicking players for unclear reasons and keeping their goldcut",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/999027570773332028",
+        category="gdkp",
+        
     },
     {
         players={
