@@ -1053,6 +1053,50 @@ t.case_table = {
                 name= "Titidriveby",
                 guid="Player-4476-04A56DA5",
             },
+            {
+                name= "Cicispammer",
+                guid="Player-4476-04D302EA",
+            },
+            {
+                name= "Ciciscammer",
+                guid="Player-4476-04CF30E1",
+            },
+            {
+                name= "Cicismradcal",
+                guid="Player-4476-04A9F5CB",
+            },
+            {
+                name= "Rgretnothing",
+                guid="Player-4476-048FF6A3",
+            },
+            {
+                name= "Ciciblaster",
+                guid="Player-4476-04D16C4D",
+            },
+            {
+                name= "Cicibangldsh",
+                guid="Player-4476-04990D11",
+            },
+            {
+                name= "Mildas",
+                guid="Player-4476-04475A4F",
+            },
+            {
+                name= "Vocnjak",
+                guid="Player-4476-04A990C1",
+            },
+            {
+                name= "Dotdotsdots",
+                guid="Player-4476-04ACDC7C",
+            },
+            {
+                name= "Bradermae",
+                guid="Player-4476-04A8FA07",
+            },
+            {
+                name= "Cicibaan",
+                guid="Player-4476-0497952A",
+            },
         },
         description = "Kicking for withheld reasons at the end of a 6 hour raid, and then later refusing to give goldcut when said kicked player was found innocent",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1028727680507588608",
@@ -1085,7 +1129,7 @@ t.case_table = {
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1039514984817897512",
     },
 
-
+    
 }
 --=========================================================================================
 -- The provider_table is configured with the above variables, you don't need to touch this.
