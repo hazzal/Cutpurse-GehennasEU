@@ -41,7 +41,7 @@ t.case_table = {
                 guid="Player-4476-01080F6D",
             },]]
         },
-        description = "Stole gold from the pot",
+        description = "GDKP host not adding all sold items to the total pot",
         category="gdkp",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1015956195263139890",
     },
@@ -71,13 +71,13 @@ t.case_table = {
         description = "Kicking players for unclear reasons and keeping their goldcut",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1041777735103692901",
         category = "gdkp",
-
     },
     {
         name= "Lainmay",
-        description = "Attempted to ninja KT loot in a guild run",
+        description = "Attempted to ninjaloot Sinister Revenge in Naxxramas 25",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1030402427523977246",
-        guid="Player-4476-01F87271",
+        guid ="Player-4476-01F87271",
+        category = "raid",
     },
     {   
         players={
@@ -91,7 +91,7 @@ t.case_table = {
             }
             
         },
-        description = "Gorfilia (raidleader) gave item to Nukin (friend) whom did not win the roll of an SR'd item",
+        description = "Raidleader which incorrectly gave a softreserved item to another player",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1031947932871700620",
     },
     {   players={
@@ -112,7 +112,7 @@ t.case_table = {
                 guid="Player-4476-0475E374",
             },
         },
-        description = "Masterlooter bugged and he took his opportunity to need-roll and ninja HR BoE item",
+        description = "Ninja looted Arcanic Tramplers in Eye of Eternity 25 when master looter bugged",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1042908764895989850",
     },
     {
@@ -136,7 +136,7 @@ t.case_table = {
                 aliases= {"Eviilboy"},
             },
         },
-        description = "Ontop of having the single worst UI I have ever seen in my life, also does scams alongside Hymora. Scamming Karazhan aswell early TBC. Part of the ThunderHands guild at some point and their fiesta.",
+        description = "GDKP host not adding all sold items to the total pot - Kicking players for unclear reasons and keeping their goldcut",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1000393193533222965",
     },
     {  
@@ -157,14 +157,14 @@ t.case_table = {
                 guid="Player-4476-00827775",
             },
         },
-        description = "Looting everything for disenchant, but leaves instead of rolling shards. Not giving out cuts in GDKP",
+        description = " Kicking players for unclear reasons and keeping their goldcut",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1004382605082374284",
         
     },
     {
         name= "Homoluigi",
         guid="Player-4476-03B84641",
-        description = "Changes SR after bosskills",
+        description = "Changes soft-reserves after boss kills based on what dropped",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1049725303880171580",
     },
     {   
@@ -179,7 +179,7 @@ t.case_table = {
                 
             },
         },
-        description = "Two counts of ninjaing SR'd items in the same raid",
+        description = "Ninja looted Soul Blade in Naxxramas 10",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1054444725677068359",
     },
     {   
@@ -202,7 +202,7 @@ t.case_table = {
                 guid="Player-4476-01E3EA20",
             },
         },
-        description = ": Lvl 19 rogue stealth trading people looking for enchants, multiple offenses. Phadthai, mage.Tries to scam honest enchanters by acting the victim. Overall mentally ill weirdo scammer.",
+        description = "Takes profession materials for enchants/crafts and logs off - Tradesniping and intercepting trades",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/999035881694445738",
     },
     
