@@ -13,7 +13,8 @@ t.case_table = {
         guid="Player-4476-043EFD7F",
         description = "Scamming entire gdkp pot multiple times",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1039641627347669047",
-        aliases= {"Worldstarxtv", "Chainshocks", "Showmelove", "Youngdawg", "Blástér", "Máverick","Hanago"},        
+        aliases= {"Worldstarxtv", "Chainshocks", "Showmelove", "Youngdawg", "Blástér", "Máverick","Hanago"},  
+        category="gdkp",    
     },
     {
         players={
