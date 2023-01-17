@@ -1128,8 +1128,25 @@ t.case_table = {
         description = "Ninjaed Deathbringer 1 year into classic. 21 days after that he took both idols in a ZG. Had a break, came back to Ninja items early TBC keeping gruul loot for himself. One year after now  back ninjaing Fiery Warhorse Reins and scamming with multiple chars. Egokiller is already banned on the discord a very long time ago.  EDIT DOING SAME THING IN WOTLK! Dog never learns",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1039514984817897512",
     },
+    {
+        name="Killerlady",
+        guid="Player-4476-042E74EC",
+        description="Removing SR's to ninja an item, when confronted removed person from the group",
+        url="https://discord.com/channels/611132910992490506/998986805477126324/1063465496441278505",
+    },
+    {
+        name="Lovermann",
+        guid="Player-4476-04C0E78E",
+        description="Ninjaing items and stealing an entire GDKP Pot",
+        url="https://discord.com/channels/611132910992490506/998986805477126324/1063986219710681149",
+    },
+    {
+        name="Benyamin",
+        guid="Player-4476-03B9D310",
+        description="Demon raids, scamming, multiple offenses",
+        url="https://discord.com/channels/611132910992490506/998986805477126324/1064174093819203614",
+    },
 
-    
 }
 --=========================================================================================
 -- The provider_table is configured with the above variables, you don't need to touch this.
