@@ -1121,7 +1121,7 @@ t.case_table = {
         name="Axeyoink",
         guid="Player-4476-043E657F",
         description="Ninja looted pre-bis Axe for off-spec and tried to extort payment",
-        url="https://discord.com/channels/611132910992490506/998986805477126324/1063986219710681149",
+        url="https://discord.com/channels/611132910992490506/895978320095748107/1027154302634037249",
     },
 }
 --=========================================================================================
