@@ -926,7 +926,7 @@ t.case_table = {
     {
         name= "Darknesswow",
         guid="Player-4476-039FB0B2",
-        description = "GDKP host fake bidding to and not following through - Raidleader which incorrectly gave a softreserved item to another player",
+        description = "GDKP host fake bidding and not following through - Raidleader which incorrectly gave a softreserved item to another player",
 		url = "https://discord.com/channels/611132910992490506/998986805477126324/999030526998491166",
     },
     {
