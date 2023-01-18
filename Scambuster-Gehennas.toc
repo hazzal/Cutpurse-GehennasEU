@@ -1,0 +1,13 @@
+## Interface: 30401
+## Title: Scambuster-Gehennas
+## Notes: Scambuster list of scammers curated by the Gehennas discord
+## Author: Hazal
+## Version: 1.1.0
+## DefaultState: enabled
+## Dependencies: Scambuster
+## OptDeps: LibStub
+
+LibStub.lua
+settings.lua
+list.lua
+core.lua

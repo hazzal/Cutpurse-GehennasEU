@@ -5,7 +5,7 @@ local _, t = ...
 
 -- Set this to be your addon name. This *has to be* the same name as your root addon
 -- folder and the same name as in your Table of Contents (.toc) file!
-t.addon_name = "Scambuster-GehennasEU"
+t.addon_name = "Scambuster-Gehennas"
 
 -- Set this variable to whatever realm your list is for.
 -- e.g. Golemagg, Firemaw, Gehennas etc.
@@ -22,7 +22,7 @@ t.my_name = "Gehennas Discord"
 
 -- Set this variable to provide a description of your organisation.
 -- e.g. "Realm discord for the Golemagg EU server."
-t.my_description = "Realm discord for the Gehennas EU server"
+t.my_description = "Realm discord for the Gehennas server"
 
 -- Set this variable to be a url to your discord or website where people
 -- can come and find you.
