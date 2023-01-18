@@ -1217,10 +1217,17 @@ t.case_table = {
         category = "raid"
     },
     {
-        name="Sepctor",
-        guid="Player-4476-029CE5B7",
-        description="Ninja looted Heroic Key of the Focusing Iris in Naxxramas 25",
-        url="https://discord.com/channels/611132910992490506/895978320095748107/1065298829412409484",
+        name = "Sepctor",
+        guid = "Player-4476-029CE5B7",
+        description = "Ninja looted Heroic Key of the Focusing Iris in Naxxramas 25",
+        url = "https://discord.com/channels/611132910992490506/895978320095748107/1065298829412409484",
+        category = "raid",
+    },
+    {
+        name="Hanters",
+        guid="Player-4476-024EB721",
+        description="Shaman Tank",
+        url="discord.gg/Gehennas",
         category = "raid"
     }
 }
