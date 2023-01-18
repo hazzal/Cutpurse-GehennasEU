@@ -1135,6 +1135,12 @@ t.case_table = {
         description="Ninja looted Dying Curse in Naxxramas 25,
         url="https://discord.com/channels/611132910992490506/998986805477126324/1065355432882876516",
     },
+    {
+        name="Sepctor",
+        guid="Player-4476-029CE5B7",
+        description="Ninja looted Heroic Key of the Focusing Iris in Naxxramas 25,
+        url="https://discord.com/channels/611132910992490506/895978320095748107/1065298829412409484",
+    }
 }
 --=========================================================================================
 -- The provider_table is configured with the above variables, you don't need to touch this.
