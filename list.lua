@@ -1123,6 +1123,18 @@ t.case_table = {
         description="Ninja looted pre-bis Axe for off-spec and tried to extort payment",
         url="https://discord.com/channels/611132910992490506/895978320095748107/1027154302634037249",
     },
+    {
+        name="Vedz",
+        guid="Player-4476-0380C8CE",
+        description="Ninja looted Dying Curse in Naxxramas 25,
+        url="https://discord.com/channels/611132910992490506/998986805477126324/1065350858189062145",
+    },
+    {
+        name="Voiddots",
+        guid="Player-4476-0435EE17",
+        description="Ninja looted Dying Curse in Naxxramas 25,
+        url="https://discord.com/channels/611132910992490506/998986805477126324/1065355432882876516",
+    },
 }
 --=========================================================================================
 -- The provider_table is configured with the above variables, you don't need to touch this.
