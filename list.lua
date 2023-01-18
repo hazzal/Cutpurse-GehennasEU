@@ -290,7 +290,7 @@ t.case_table = {
         },
         description = " Ninja looted Dragonspine Trophy in Gruul",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1019258436157964339",
-        cateogory = "raid"
+        category = "raid"
     },
     {
         players={
@@ -326,7 +326,7 @@ t.case_table = {
         guid="Player-4476-043E1177",
         description = "GDKP gold pot scammer. Stole 20k gold in Mount Hyjal",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1009744442107908126",
-        cateogry = "gdkp"
+        category = "gdkp"
     },
     {
         name= "Nextec",
