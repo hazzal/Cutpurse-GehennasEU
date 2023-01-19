@@ -1189,13 +1189,6 @@ t.case_table = {
         category = "gdkp"
     },
     {
-        name="Mocus",
-        guid="Player-4476-045B0F63",
-        description="GDKP gold pot scammer. Stole 75k+ in tier-7 World Tour",
-        url="https://discord.com/channels/611132910992490506/998986805477126324/1063986219710681149",
-        category = "gdkp"
-    },
-    {
         name="Axeyoink",
         guid="Player-4476-043E657F",
         description="Ninja looted pre-bis Axe for off-spec and tried to extort payment",
