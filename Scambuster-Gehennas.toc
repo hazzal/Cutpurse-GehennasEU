@@ -2,9 +2,10 @@
 ## Title: Scambuster-Gehennas
 ## Notes: Scambuster list of scammers curated by the Gehennas discord
 ## Author: Hazal
-## Version: 1.1.0
+## Version: "@project-version@"
 ## DefaultState: enabled
 ## Dependencies: Scambuster
+## X-Curse-Project-ID: 809317
 ## OptDeps: LibStub
 
 LibStub.lua
