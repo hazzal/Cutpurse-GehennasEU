@@ -1216,13 +1216,6 @@ t.case_table = {
         url = "https://discord.com/channels/611132910992490506/895978320095748107/1065298829412409484",
         category = "raid",
     },
-    {
-        name="Hanters",
-        guid="Player-4476-024EB721",
-        description="Shaman Tank",
-        url="discord.gg/Gehennas",
-        category = "raid"
-    }
 }
 --=========================================================================================
 -- The provider_table is configured with the above variables, you don't need to touch this.
