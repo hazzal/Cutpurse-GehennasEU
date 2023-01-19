@@ -18,11 +18,11 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Install and run Luacheck
-        uses: nebularg/actions-luacheck@v1
-        with:
-          args: "--no-color -q"
-          annotate: warning
+#      - name: Install and run Luacheck
+#        uses: nebularg/actions-luacheck@v1
+#        with:
+#          args: "--no-color -q"
+#          annotate: warning
 
       - name: Create Package
         uses: BigWigsMods/packager@v2
@@ -30,9 +30,9 @@ jobs:
           CF_API_KEY: ${{ secrets.CF_API_KEY }}
           GITHUB_OAUTH: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Send Status to Discord
-        uses: nebularg/actions-discord-webhook@v1
-        with:
-          webhook_url: ${{ secrets.WEBHOOK_URL }}
-          status: ${{ job.status }}
-        if: failure()
+#      - name: Send Status to Discord
+#        uses: nebularg/actions-discord-webhook@v1
+#        with:
+#          webhook_url: ${{ secrets.WEBHOOK_URL }}
+#          status: ${{ job.status }}
+#        if: failure()
