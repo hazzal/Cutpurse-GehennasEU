@@ -1216,6 +1216,20 @@ t.case_table = {
         url = "https://discord.com/channels/611132910992490506/895978320095748107/1065298829412409484",
         category = "raid",
     },
+    {
+        name = "Cospri",
+        guid = "Player-4476-03A21281",
+        description = "Ninja looted Arcanic Tramplers in Eye of Eternity 10",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1067217335863218387",
+        category = "raid",
+    },
+    {
+        name = "Relajate",
+        guid = "Player-4476-045DC87C",
+        description = "Ninja looted Fool's Trial in Naxxramas 25",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1067224949250609192",
+        category = "raid",
+    },
 }
 --=========================================================================================
 -- The provider_table is configured with the above variables, you don't need to touch this.
