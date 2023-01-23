@@ -756,9 +756,9 @@ t.case_table = {
                 guid="Player-4476-0441C05F",
             }, 
             {
-                name= "Fattylicous",
+                name= "Binkabonk",
                 guid="Player-4476-0260C831",
-                aliases={"Parapass"}
+                aliases={"Parapass","Fattylicous"}
             },
             {
                 name= "Snéaký",
