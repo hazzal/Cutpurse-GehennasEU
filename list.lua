@@ -31,7 +31,7 @@ t.case_table = {
                 guid="Player-4476-039AA31B",
             },
             {
-                name="Unforgivén",
+                name="Unforgivèn",
                 aliases={"Malfari"},
                 guid="Player-4476-3D02739",
             },
@@ -315,9 +315,10 @@ t.case_table = {
         category = "raid"
     },
     {
-        name= "Aposh",
+        name= "Draugwaen",
         guid="Player-4476-037DF631",
         description = "Ninja looted Dragonspine Trophy in Gruul",
+        aliases={"Aposh",},
         url = "https://discord.com/channels/611132910992490506/998986805477126324/999031901597732915",
         category = "raid"
     },
@@ -514,11 +515,7 @@ t.case_table = {
             {
                 name= "Leniz",
                 guid="Player-4476-03AE5CD7",
-            },
-            {
-                --Likely transferred
-                name="Mdontank",
-                guid="Player-4476-3AE5CD7"
+                aliases={"Mdontank"},
             },
             {
                 name="Igani",
@@ -849,11 +846,7 @@ t.case_table = {
                 --Seems to have transferred/deleted but still listing just in case
                 name= "Muostang",
                 guid="Player-4476-043E92F7",
-                aliases={"Shockele"},
-            },
-            {
-                name= "Överdängare",
-                guid="Player-4476-04CC728A",
+                aliases={"Shockele","Överdängare"},
             },
             --Güccii unable to find
             {
@@ -1107,8 +1100,9 @@ t.case_table = {
                 guid="Player-4476-048FF6A3",
             },
             {
-                name= "Ciciblaster",
+                name= "Everbligh",
                 guid="Player-4476-04D16C4D",
+                aliases={"Ciciblaster",},
             },
             {
                 name= "Cicibangldsh",
@@ -1219,15 +1213,22 @@ t.case_table = {
     {
         name = "Cospri",
         guid = "Player-4476-03A21281",
-        description = "Ninja looted Arcanic Tramplers in Eye of Eternity",
+        description = "Ninja looted Arcanic Tramplers in Eye of Eternity 10",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1067217335863218387",
         category = "raid",
     },
     {
         name = "Relajate",
         guid = "Player-4476-045DC87C",
-        description = "Ninja looted Fool's Trial",
+        description = "Ninja looted Fool's Trial in Naxxramas 25",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1067224949250609192",
+        category = "raid",
+    },
+    {
+        name = "Heartlack",
+        guid = "Player-4476-4B6FE36",
+        description = "Ninja looted both Malygos mount and Surge Needle Ring in Eye of Eternity 10",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1067530693657243709",
         category = "raid",
     },
 }
