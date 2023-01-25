@@ -1239,7 +1239,7 @@ t.case_table = {
         category = "raid",
     },
     {
-        name = "Rüfüs ",
+        name = "Rüfüs",
         guid = "Player-4476-036476CD",
         description = "Ninja'd Torch of Holy Fire in Naxxramas 25",
         url = "https://discord.com/channels/611132910992490506/895978320095748107/1067876414755442818",
