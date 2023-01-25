@@ -2,7 +2,7 @@
 ## Title: Scambuster-Gehennas
 ## Notes: Scambuster list of scammers curated by the Gehennas discord
 ## Author: Hazal
-## Version: "@project-version@"
+## Version: @project-version@
 ## DefaultState: enabled
 ## Dependencies: Scambuster
 ## X-Curse-Project-ID: 809317
