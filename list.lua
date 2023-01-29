@@ -1252,6 +1252,34 @@ t.case_table = {
         url = "https://discord.com/channels/611132910992490506/895978320095748107/1067876414755442818",
         category = "raid",
     },
+    {
+        name = "Magicmashrom",
+        guid = "Player-4476-043BDA21",
+        description = "GDKP gold pot scammer. Stole 75k~ in tier-7 World Tour",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1069287020234547231",
+        category = "gdkp",
+    },
+    {
+        name = "Sangandyasha",
+        guid = "Player-4476-04B37E1C",
+        description = "Very malicious raid leader. Ninja'd Arcanic Tramplers in Eye of Eternity by removing people's SR",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1069293736711946271",
+        category = "raid",
+    },
+    {
+        name = "Numberseven",
+        guid = "Player-4476-045DFC58",
+        description = "Ninja'd Scale of Fates in Ulduar 25",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1069308854766149772",
+        category = "raid",
+    },
+    {
+        name = "Shikkaa",
+        guid = "Player-4476-04B72B9D",
+        description = "Raidleader which refused to give an SR'd item to a player",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1069294974350405642",
+        category = "raid",
+    },
 }
 --=========================================================================================
 -- The provider_table is configured with the above variables, you don't need to touch this.
