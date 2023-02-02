@@ -1280,6 +1280,36 @@ t.case_table = {
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1069294974350405642",
         category = "raid",
     },
+    {
+        name = "Pyrolancer",
+        guid = "Player-4476-0431F136",
+        description = "Malicious raidleader not giving a SR'd item to a player that won it",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1070783184163311616",
+        category = "raid",
+    },
+    {
+        name = "Fenahealer",
+        guid = "Player-4476-03DC7B28",
+        description = "Recipient of a ninjalooted Torch of Holy Fire",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1070783184163311616",
+        category = "raid",
+    },
+    {
+        players={
+
+            {
+                name= "Zulknight",
+                guid= "Player-4476-0497B537",
+            },
+            {
+                name= "Willtouchyou ",
+                guid= "Player-4476-042166D6",
+            },      
+        },
+        description = "Raidleader not honouring a prior loot agreement made before the raid",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1070785449997639873",
+        category = "raid"
+    },
 }
 --=========================================================================================
 -- The provider_table is configured with the above variables, you don't need to touch this.
