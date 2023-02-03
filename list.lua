@@ -1281,6 +1281,13 @@ t.case_table = {
         category = "raid",
     },
     {
+        name = "Angrydevil",
+        guid = "Player-4476-043DCB6B",
+        description = "Raid scam. Cancelled world tour early and didn't give cut.",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1070097732670341250",
+        category = "gdkp",
+    },
+    {
         name = "Pyrolancer",
         guid = "Player-4476-0431F136",
         description = "Malicious raidleader not giving a SR'd item to a player that won it",
@@ -1302,7 +1309,7 @@ t.case_table = {
                 guid= "Player-4476-0497B537",
             },
             {
-                name= "Willtouchyou ",
+                name= "Willtouchyou",
                 guid= "Player-4476-042166D6",
             },      
         },
