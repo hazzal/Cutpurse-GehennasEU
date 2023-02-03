@@ -1207,7 +1207,7 @@ t.case_table = {
         name = "Sepctor",
         guid = "Player-4476-029CE5B7",
         description = "Ninja looted Heroic Key of the Focusing Iris in Naxxramas 25",
-        url = "https://discord.com/channels/611132910992490506/998986805477126324/1065360642921484370",
+        url = "https://discord.com/channels/611132910992490506/895978320095748107/1065298829412409484",
         category = "raid",
     },
     {
@@ -1235,21 +1235,21 @@ t.case_table = {
         name = "Larionka",
         guid = "Player-4476-03C27FE6",
         description = "Rolling on downgrades as MS to sell them to raid",
-        url = "https://discord.com/channels/611132910992490506/998986805477126324/1067880530386882691",
+        url = "https://discord.com/channels/611132910992490506/895978320095748107/1067855365376581813",
         category = "raid",
     },
     {
         name = "Rüfüs",
         guid = "Player-4476-036476CD",
         description = "Ninja'd Torch of Holy Fire in Naxxramas 25",
-        url = "https://discord.com/channels/611132910992490506/998986805477126324/1067882066571698176",
+        url = "https://discord.com/channels/611132910992490506/895978320095748107/1067876414755442818",
         category = "raid",
     },
     {
         name = "Maxitank",
         guid = "Player-4476-045F76E7",
         description = "Ninja'd Torch of Holy Fire in Naxxramas 25",
-        url = "https://discord.com/channels/611132910992490506/998986805477126324/1067882066571698176",
+        url = "https://discord.com/channels/611132910992490506/895978320095748107/1067876414755442818",
         category = "raid",
     },
     {
@@ -1295,13 +1295,6 @@ t.case_table = {
         category = "raid",
     },
     {
-        name = "Fenahealer",
-        guid = "Player-4476-03DC7B28",
-        description = "Recipient of a ninjalooted Torch of Holy Fire",
-        url = "https://discord.com/channels/611132910992490506/998986805477126324/1070783184163311616",
-        category = "raid",
-    },
-    {
         players={
 
             {
@@ -1327,10 +1320,30 @@ t.case_table = {
             {
                 name= "Addicated",
                 guid= "Player-4476-04D1CAC0",
-            },      
+            },     
+            {
+                name= "Syroc",
+                guid= "Player-4476-038C52CD",
+            },       
         },
         description = "Ninja'd belt of 100 Deaths - Malicious raidleader unfairly kicking players on boss with their softreserves",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1070870942110208001",
+        category = "raid"
+    },
+    {
+        players={
+
+            {
+                name= "Fenahealer",
+                guid= "Player-4476-03DC7B28",
+            },
+            {
+                name= "Fenalock",
+                guid= "Player-4476-0329F338",
+            },      
+        },
+        description = "Recipient of a ninjalooted Torch of Holy Fire",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1070783184163311616",
         category = "raid"
     },
 }
