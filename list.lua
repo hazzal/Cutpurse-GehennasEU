@@ -1318,11 +1318,20 @@ t.case_table = {
         category = "raid"
     },
     {
-        name = "Siaan",
-        guid = "Player-4476-03973CB6",
+        players={
+
+            {
+                name= "Siaan",
+                guid= "Player-4476-03973CB6",
+            },
+            {
+                name= "Addicated",
+                guid= "Player-4476-04D1CAC0",
+            },      
+        },
         description = "Ninja'd belt of 100 Deaths - Malicious raidleader unfairly kicking players on boss with their softreserves",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1070870942110208001",
-        category = "raid",
+        category = "raid"
     },
 }
 --=========================================================================================
