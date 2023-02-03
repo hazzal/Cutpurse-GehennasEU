@@ -1310,6 +1310,13 @@ t.case_table = {
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1070785449997639873",
         category = "raid"
     },
+    {
+        name = "Siaan",
+        guid = "Player-4476-03973CB6",
+        description = "Ninja'd belt of 100 Deaths - Malicious raidleader unfairly kicking players on boss with their softreserves",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1070870942110208001",
+        category = "raid",
+    },
 }
 --=========================================================================================
 -- The provider_table is configured with the above variables, you don't need to touch this.
