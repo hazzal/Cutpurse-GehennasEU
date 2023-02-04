@@ -1341,9 +1341,33 @@ t.case_table = {
                 name= "Fenalock",
                 guid= "Player-4476-0329F338",
             },      
+            {
+                name= "Fenarogue",
+                guid= "Player-4476-03A46D77",
+            },  
+            {
+                name= "Fenapala",
+                guid= "Player-4476-038AC7DD",
+            },  
+            {
+                name= "Fenakoçero",
+                guid= "Player-4476-03DD352E",
+            },  
         },
         description = "Recipient of a ninjalooted Torch of Holy Fire",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1070783184163311616",
+        category = "raid"
+    },
+    {
+        players={
+
+            {
+                name= "Moorbs",
+                guid= "Player-4476-043E92D9",
+            },
+        },
+        description = "Ninja'd Aesuga, Hand of the Ardent Champion in Ulduar 10",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1071472960474460210",
         category = "raid"
     },
 }
