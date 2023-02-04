@@ -870,7 +870,7 @@ t.case_table = {
         name= "Palimoe",
         guid="Player-4476-03967DF9",
         description = "Ninja looted Malygos Mount, Surge Needle Ring, Ruthlessness",
-		url = "https://discord.com/channels/611132910992490506/895978320095748107/1050832849298784347",
+		url = "https://discord.com/channels/611132910992490506/998986805477126324/1039898707782549586",
         category = "raid"
         -- has a warlock, name unknown
     },
