@@ -1370,6 +1370,18 @@ t.case_table = {
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1071472960474460210",
         category = "raid"
     },
+    {
+        players={
+
+            {
+                name= "Thelstra",
+                guid= "Player-4476-03323054",
+            },
+        },
+        description = "Trade scammer by trying to trade similar looking items worth a much lesser value",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1071742536256868423",
+        category = "trade"
+    },
 }
 --=========================================================================================
 -- The provider_table is configured with the above variables, you don't need to touch this.
