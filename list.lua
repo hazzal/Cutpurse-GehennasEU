@@ -1382,6 +1382,30 @@ t.case_table = {
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1071742536256868423",
         category = "trade"
     },
+    {
+        players={
+
+            {
+                name= "Rozza",
+                guid= "Player-4476-036E7AF8",
+            },
+        },
+        description = "Ninja'd offspec tier-8 Protection Legs in VoA25 spec run",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1072250282462949516",
+        category = "raid"
+    },
+    {
+        players={
+
+            {
+                name= "Titanholo",
+                guid= "Player-4476-04D9CA0A",
+            },
+        },
+        description = "Very malicious raidleader completely removing softreserves of raid members",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1072252691054596258",
+        category = "raid"
+    },
 }
 --=========================================================================================
 -- The provider_table is configured with the above variables, you don't need to touch this.
