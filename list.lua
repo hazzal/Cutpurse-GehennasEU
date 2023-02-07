@@ -1398,18 +1398,6 @@ t.case_table = {
         players={
 
             {
-                name= "Titanholo",
-                guid= "Player-4476-04D9CA0A",
-            },
-        },
-        description = "Very malicious raidleader completely removing softreserves of raid members",
-        url = "https://discord.com/channels/611132910992490506/998986805477126324/1072252691054596258",
-        category = "raid"
-    },
-    {
-        players={
-
-            {
                 name= "Lulek",
                 guid= "Player-4476-02BF665F",
             },
