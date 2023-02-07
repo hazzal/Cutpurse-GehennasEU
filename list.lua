@@ -1406,6 +1406,46 @@ t.case_table = {
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1072252691054596258",
         category = "raid"
     },
+    {
+        players={
+
+            {
+                name= "Lulek",
+                guid= "Player-4476-02BF665F",
+            },
+            {
+                name= "Pizdica",
+                guid= "Player-4476-0468FBDB",
+            },
+            {
+                name= "Nothson",
+                guid= "Player-4476-04AAB319",
+            },
+            {
+                name= "Ploislife",
+                guid= "Player-4476-02CB34F9",
+            },
+            {
+                name= "Pokerstarssx",
+                guid= "Player-4476-02C78327",
+            },
+            {
+                name= "Nothadin",
+                guid= "Player-4476-03493D12",
+            },
+            {
+                name= "Petmeplease",
+                guid= "Player-4476-03542762",
+            },
+            {
+                name= "Nothsaan",
+                guid= "Player-4476-037C0118",
+            },
+        },
+        description = "Scammed 400k gold in-game via online poker. Blocked communication with the winner",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1072549038194446448",
+        category = "other"
+    },
 }
 --=========================================================================================
 -- The provider_table is configured with the above variables, you don't need to touch this.
