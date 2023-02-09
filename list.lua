@@ -867,8 +867,9 @@ t.case_table = {
         category = "raid"
     },
     {
-        name= "Palimoe",
+        name= "Eomila",
         guid="Player-4476-03967DF9",
+        aliases={"Palimoe"},
         description = "Ninja looted Malygos Mount, Surge Needle Ring, Ruthlessness",
 		url = "https://discord.com/channels/611132910992490506/998986805477126324/1039898707782549586",
         category = "raid"
@@ -1176,8 +1177,9 @@ t.case_table = {
         category = "gdkp"
     },
     {
-        name="Benyamin",
+        name="Hardin",
         guid="Player-4476-03B9D310",
+        aliases={"Benyamin"},
         description="GDKP gold pot scammer across multiple raids - GDKP host not adding all sold items to the total pot - Ninjalooting across multiple raids",
         url="https://discord.com/channels/611132910992490506/998986805477126324/1064174093819203614",
         category = "gdkp"
@@ -1274,8 +1276,9 @@ t.case_table = {
         category = "raid",
     },
     {
-        name = "Shikkaa",
+        name = "Bijörn",
         guid = "Player-4476-04B72B9D",
+        aliases= {"Shikkaa"},
         description = "Raidleader which refused to give an SR'd item to a player",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1069294974350405642",
         category = "raid",
@@ -1334,8 +1337,9 @@ t.case_table = {
         players={
 
             {
-                name= "Fenahealer",
+                name= "Orjinmithat",
                 guid= "Player-4476-03DC7B28",
+                aliases={"Fenahealer"},
             },
             {
                 name= "Fenalock",
@@ -1374,8 +1378,9 @@ t.case_table = {
         players={
 
             {
-                name= "Thelstra",
+                name= "Silivren",
                 guid= "Player-4476-03323054",
+                aliases={"Thelstra",}
             },
         },
         description = "Trade scammer by trying to trade similar looking items worth a much lesser value",
