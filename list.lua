@@ -1234,8 +1234,9 @@ t.case_table = {
         category = "raid",
     },
     {
-        name = "Larionka",
+        name = "Lellah",
         guid = "Player-4476-03C27FE6",
+        aliases={"Larionka",},
         description = "Rolling on downgrades as MS to sell them to raid",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1067880530386882691",
         category = "raid",
