@@ -1122,8 +1122,9 @@ t.case_table = {
                 guid="Player-4476-04ACDC7C",
             },
             {
-                name= "Bradermae",
+                name= "Hameright",
                 guid="Player-4476-04A8FA07",
+                alises={"Bradermae",},
             },
             {
                 name= "Cicibaan",
@@ -1177,9 +1178,9 @@ t.case_table = {
         category = "gdkp"
     },
     {
-        name="Hardin",
+        name="Benyamin",
         guid="Player-4476-03B9D310",
-        aliases={"Benyamin"},
+        aliases={"Benyamin","Hardin"},
         description="GDKP gold pot scammer across multiple raids - GDKP host not adding all sold items to the total pot - Ninjalooting across multiple raids",
         url="https://discord.com/channels/611132910992490506/998986805477126324/1064174093819203614",
         category = "gdkp"
@@ -1322,8 +1323,9 @@ t.case_table = {
                 guid= "Player-4476-03973CB6",
             },
             {
-                name= "Addicated",
+                name= "Detacidda",
                 guid= "Player-4476-04D1CAC0",
+                aliases={"Addicated",},
             },     
             {
                 name= "Syroc",
