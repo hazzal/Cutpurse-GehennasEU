@@ -1466,7 +1466,43 @@ t.case_table = {
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1073628788283416647",
         category = "other"
     },
+    {
+        players={
+
+            {
+                name= "Tørstig",
+                guid= "Player-4476-04416D98",
+            },
+        },
+        description = "Ninjaing VoA25 items",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1073958096398991371",
+        category = "raid"
+    },
+    {
+        players={
+
+            {
+                name= "Badadojaja",
+                guid= "Player-4476-0479FFB5",
+            },
+        },
+        description = "Scamming cuts from GDKP hosts, trading multiple times",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1074727571280904312",
+        category = "raid"
+    },
+    {
+        players={
+
+            {
+                name= "Bladêstorm",
+                guid= "Player-4476-043E6EEF",
+            },
+        },
+        description = "GDKP host letting items time out and scamming the pot",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1074726017375158322",
+        category = "raid"
 }
+
 --=========================================================================================
 -- The provider_table is configured with the above variables, you don't need to touch this.
 --=========================================================================================
