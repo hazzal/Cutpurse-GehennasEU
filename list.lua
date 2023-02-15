@@ -1482,7 +1482,7 @@ t.case_table = {
         players={
 
             {
-                name= "Badadojaja",
+                name= "Bajadojaja",
                 guid= "Player-4476-0479FFB5",
             },
         },
