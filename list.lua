@@ -1501,6 +1501,7 @@ t.case_table = {
         description = "GDKP host letting items time out and scamming the pot",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1074726017375158322",
         category = "raid"
+    }
 }
 
 --=========================================================================================
