@@ -1525,6 +1525,18 @@ t.case_table = {
         description = "Ninja'd Illustration trinket in Obsidium Sanctum",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1075772775953875014",
         category = "raid"
+    },
+    {
+        players={
+
+            {
+                name= "Masozi",
+                guid= "Player-4476-045A802F",
+            },
+        },
+        description = "Ninja'd The Boreal Guard in Ulduar 10",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1075813282079854683",
+        category = "raid"
     }
 }
 
