@@ -1501,6 +1501,30 @@ t.case_table = {
         description = "GDKP host letting items time out and scamming the pot",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1074726017375158322",
         category = "raid"
+    },
+    {
+        players={
+
+            {
+                name= "Unsaintlylol",
+                guid= "Player-4476-04D29B57",
+            },
+        },
+        description = "Ninja'd HM Ulduar 10 weapon",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1075772031532015787",
+        category = "raid"
+    },
+    {
+        players={
+
+            {
+                name= "Shadowfîame",
+                guid= "Player-4476-03FD26BE",
+            },
+        },
+        description = "Ninja'd Illustration trinket in Obsidium Sanctum",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1075772775953875014",
+        category = "raid"
     }
 }
 
