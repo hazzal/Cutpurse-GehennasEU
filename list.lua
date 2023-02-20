@@ -1692,6 +1692,22 @@ t.case_table = {
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1077235178403020940",
         category = "raid"
     },
+    {
+        players={
+
+            {
+                name= "Moobeaches",
+                guid= "Player-4476-04869069",
+            },
+            {
+                name= "Rustincohles",
+                guid= "Player-4476-047B27FF",
+            },
+        },
+        description = "Ninja looted t8 shoulder token by not giving it to the winner and leaving group upon receiving it",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1077287553989885972",
+        category = "raid"
+    },
 }
 
 --=========================================================================================
