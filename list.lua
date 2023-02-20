@@ -1193,8 +1193,9 @@ t.case_table = {
         category = "other"
     },
     {
-        name="Vedz",
+        name="Xnd",
         guid="Player-4476-0380C8CE",
+        aliases={"Vedz",},
         description="Ninja looted Dying Curse in Naxxramas 25",
         url="https://discord.com/channels/611132910992490506/998986805477126324/1065350858189062145",
         category = "raid"
@@ -1506,8 +1507,9 @@ t.case_table = {
         players={
 
             {
-                name= "Unsaintlylol",
+                name= "Straßencobra",
                 guid= "Player-4476-04D29B57",
+                aliases={"Unsaintlylol",},
             },
         },
         description = "Ninja'd HM Ulduar 10 weapon",
