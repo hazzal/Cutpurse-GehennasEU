@@ -1537,7 +1537,135 @@ t.case_table = {
         description = "Ninja'd The Boreal Guard in Ulduar 10",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1075813282079854683",
         category = "raid"
-    }
+    },
+    {
+        players={
+
+            {
+                name= "Néxt",
+                guid= "Player-4476-04836C37",
+            },
+        },
+        description = "Ninja'd Drape of the Deadly Foe in Naxxramas",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1077220576629895199",
+        category = "raid"
+    },
+    {
+        players={
+
+            {
+                name= "Døko",
+                guid= "Player-4476-04728703",
+            },
+        },
+        description = "Ninja'd Drape of the Deadly Foe in Naxxramas",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1077220576629895199",
+        category = "raid"
+    },
+    {
+        players={
+
+            {
+                name= "Shadowlocki",
+                guid= "Player-4476-04836C37",
+            },
+        },
+        description = "Ninja looted Leash of Heedless Magic in EoE",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1077222766203383869",
+        category = "raid"
+    },
+    {
+        players={
+
+            {
+                name= "Spanie",
+                guid= "Player-4476-03D911C6",
+            },
+        },
+        description = "Ninja looted Wall of Terror in Naxxramas",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1077223581202784336",
+        category = "raid"
+    },
+    {
+        players={
+
+            {
+                name= "Jokerd",
+                guid= "Player-4476-036713B4",
+            },
+            {
+                name= "Kekbab",
+                guid= "Player-4476-03895AD1",
+            },
+            {
+                name= "Shkek",
+                guid= "Player-4476-0374160F",
+            },
+            {
+                name= "Knifeboi",
+                guid= "Player-4476-04337242",
+            },
+            {
+                name= "Gdkpriest",
+                guid= "Player-4476-045B44AD",
+            },
+            {
+                name= "Cowpium",
+                guid= "Player-4476-03BC413E",
+            },
+            {
+                name= "Soyknight",
+                guid= "Player-4476-0479B350",
+            },
+            {
+                name= "Fartsman",
+                guid= "Player-4476-0465337F",
+            },
+            {
+                name= "Affleech",
+                guid= "Player-4476-04DB9FBB",
+            },
+            {
+                name= "Unholykek",
+                guid= "Player-4476-04BEE4EA",
+            },
+        },
+        description = "Ninja looted Staff of Dominance in Molten Core",
+        url = "https://www.reddit.com/r/classicwow/comments/dvukun/world_first_60_method_jokerd_ninjad_staff_of/",
+        category = "raid"
+    },
+    {
+        players={
+
+            {
+                name= "Lcukydruid",
+                guid= "Player-4476-0392F45E",
+            },
+            {
+                name= "Apocallypse",
+                guid= "Player-4476-046A18D8",
+            },
+            {
+                name= "Evilboy",
+                guid= "Player-4476-017EF1AB",
+            },
+            {
+                name= "Putackk",
+                guid= "Player-4476-03C0C39D",
+            },
+            {
+                name= "Paladininjas",
+                guid= "Player-4476-04D0A25E",
+            },
+            {
+                name= "Byronironsid",
+                guid= "Player-4476-04D0A25E",
+            },
+        },
+        description = "Offering heroic+ dungeon boosting, kicking buyer when payment is received",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1077232343271620711",
+        category = "raid"
+    },
 }
 
 --=========================================================================================
