@@ -1666,6 +1666,30 @@ t.case_table = {
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1077232343271620711",
         category = "raid"
     },
+    {
+        players={
+
+            {
+                name= "Nitera",
+                guid= "Player-4476-044B38CB",
+            },
+        },
+        description = "Ninja looted Saronite Animus Cloak in Ulduar",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1077235178403020940",
+        category = "raid"
+    },
+    {
+        players={
+
+            {
+                name= "Lianthe",
+                guid= "Player-4476-046DF82C",
+            },
+        },
+        description = "Ninja looted Saronite Animus Cloak in Ulduar",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1077235178403020940",
+        category = "raid"
+    },
 }
 
 --=========================================================================================
