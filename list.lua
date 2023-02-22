@@ -1463,7 +1463,7 @@ t.case_table = {
                 guid= "Player-4476-02D4317E",
             },
         },
-        description = "Scamming holiday event bosses & making IRL threats when called out (also known as Dashqt)",
+        description = "Scammer (holiday events, deathrolls, promising fake payments e.g. gold on drop), known as Soday/Dashqt(Firemaw) now paying for rename services to tarnish the reputation of others. Very well known for making IRL threats",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1073628788283416647",
         category = "other"
     },
@@ -1706,6 +1706,34 @@ t.case_table = {
         },
         description = "Ninja looted t8 shoulder token by not giving it to the winner and leaving group upon receiving it",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1077287553989885972",
+        category = "raid"
+    },
+    {
+        players={
+
+            {
+                name= "Addictiondnb",
+                guid= "Player-4476-04B0677B",
+            },
+        },
+        description = "Ninja'd mount in VoA with masterlooter",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1077960375078760528",
+        category = "raid"
+    },
+    {
+        players={
+
+            {
+                name= "Wrs",
+                guid= "Player-4476-0401B611",
+            },
+            {
+                name= "Vrs",
+                guid= "Player-4476-02E12424",
+            },
+        },
+        description = "GDKP host AFKing his own runs and unfairly kicking and deducting players when called out about it, resulting in a wasted lockout for those players",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1077966279522144367",
         category = "raid"
     },
 }
