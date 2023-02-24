@@ -1463,7 +1463,7 @@ t.case_table = {
                 guid= "Player-4476-02D4317E",
             },
         },
-        description = "Scammer (holiday events, deathrolls, promising fake payments e.g. gold on drop), known as Soday/Dashqt(Firemaw) now paying for rename services to tarnish the reputation of others. Very well known for making IRL threats",
+        description = "Scammer known as Soday/Dashqt impersonating innocent players. Anything from holiday events, deathrolls, fake GDKP budgets, promising fake payments e.g. gold on drop, now paying for rename services to tarnish the reputation of others. Very well known for making IRL threats",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1073628788283416647",
         category = "other"
     },
@@ -1731,9 +1731,61 @@ t.case_table = {
                 name= "Vrs",
                 guid= "Player-4476-02E12424",
             },
+            {
+                name= "Vrss",
+                guid= "Player-4476-03A08030",
+            },
+            {
+                name= "Vrsy",
+                guid= "Player-4476-03AAE689",
+            },
+            {
+                name= "Vrsx",
+                guid= "Player-4476-03AA0E33",
+            },
+            {
+                name= "Wrsx",
+                guid= "Player-4476-045E1DB1",
+            },
         },
         description = "GDKP host AFKing his own runs and unfairly kicking and deducting players when called out about it, resulting in a wasted lockout for those players",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1077966279522144367",
+        category = "raid"
+    },
+    {
+        players={
+
+            {
+                name= "Maximusx",
+                guid= "Player-4476-0392060D",
+            },
+        },
+        description = "Ninja'd Embrace of the Spider as a Prot Paladin",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1078284632082087966",
+        category = "other"
+    },
+    {
+        players={
+
+            {
+                name= "Zoomba",
+                guid= "Player-4476-04D7A7AE",
+            },
+        },
+        description = "Ninja'd Pennant Cloak in Obsidium Sanctum",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1078382033962807376",
+        category = "raid"
+    },
+    {
+        players={
+
+            {
+                name= "Bazigosh",
+                guid= "Player-4476-043931D9",
+            },
+        },
+        description = "Opening trade windows for loot he did not win, receiving the items and leaving raid",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1078740152647700551",
         category = "raid"
     },
 }
