@@ -1800,6 +1800,18 @@ t.case_table = {
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1078989526342574090",
         category = "raid"
     },
+    {
+        players={
+
+            {
+                name= "Lilpampers",
+                guid= "Player-4476-036CE7F6",
+            },
+        },
+        description = "GDKP host which stole the pot, dc'd and didn't return. General history of scamming",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1080117529013403769",
+        category = "gdkp"
+    },
 }
 
 --=========================================================================================
