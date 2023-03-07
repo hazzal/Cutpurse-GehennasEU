@@ -86,7 +86,8 @@ t.case_table = {
                 guid="Player-4476-0460D86D",
             },
             {
-                name= "Nikun",
+                name= "Nukin",
+                aliases={"Nukin","Nikun",}, --likely refunded name change
                 guid="Player-4476-043EEA3A",
             }
             
@@ -173,7 +174,8 @@ t.case_table = {
     {   
         players={
             {
-                name= "Evocated",
+                name= "Toadonroad",
+                aliases={"Evocated",},
                 guid="Player-4476-039C0A45",
             },
             {
@@ -340,7 +342,8 @@ t.case_table = {
     {
         players={
             {
-                name= "Beaztgodx",
+                name= "Smartshot",
+                aliases={"Beaztgodx",},
                 guid="Player-4476-04437518",
             },
             {
@@ -913,9 +916,9 @@ t.case_table = {
     {
         players={
             {
-                name= "Badtargetx",
+                name= "ßaßaßeshlikx",
                 guid="Player-4476-04B75E91",
-                aliases={"Muttjuice"},
+                aliases={"Muttjuice","Badtargetx",},
             },
             {
                 name= "Catsndogsott",
@@ -964,8 +967,9 @@ t.case_table = {
         category = "gdkp"
     },
     {
-        name= "Dendro",
+        name= "Darkshamán",
         guid="Player-4476-0446B89E",
+        aliases={"Dendro",},
         description = " Ninja looted Torch of Holy Fire in Naxxramas 25",
 		url = "https://discord.com/channels/611132910992490506/998986805477126324/1036221196947173406",
         category = "raid"
@@ -1193,15 +1197,16 @@ t.case_table = {
         category = "other"
     },
     {
-        name="Xnd",
+        name="Vedz",
         guid="Player-4476-0380C8CE",
-        aliases={"Vedz",},
+        aliases={"Vedz","Xnd"}, --Likely reverted namechange
         description="Ninja looted Dying Curse in Naxxramas 25",
         url="https://discord.com/channels/611132910992490506/998986805477126324/1065350858189062145",
         category = "raid"
     },
     {
-        name="Voiddots",
+        name="Blacksongg",
+        aliases={"Voiddots",},
         guid="Player-4476-0435EE17",
         description="Ninja looted Dying Curse in Naxxramas 25",
         url="https://discord.com/channels/611132910992490506/998986805477126324/1065355432882876516",
@@ -1459,7 +1464,8 @@ t.case_table = {
         players={
 
             {
-                name= "Soday",
+                name= "Nðyal",
+                aliases={"Soday",},
                 guid= "Player-4476-02D4317E",
             },
         },
@@ -1471,7 +1477,8 @@ t.case_table = {
         players={
 
             {
-                name= "Tørstig",
+                name= "Slavedreng",
+                aliases={"Tørstig",},
                 guid= "Player-4476-04416D98",
             },
         },
@@ -1815,6 +1822,38 @@ t.case_table = {
         description = "GDKP host which stole the pot, dc'd and didn't return. General history of scamming",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1080117529013403769",
         category = "gdkp"
+    },
+    {
+        players={
+            {
+                name= "Flager",
+                guid= "Player-4476-043F1770",
+            },
+            {
+                name= "Darkbrain",
+                guid= "Player-4476-043EF3CC",
+            },
+            {
+                name= "Laughinskull",
+                guid= "Player-4476-04685297",
+            },
+
+
+        },
+        description = "Colluding as a group to get their priest friend BiS wand",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1079470475807293450",
+        category = "raid"
+    },
+    {
+        players={
+            {
+                name= "Eagledog",
+                guid= "Player-4476-0336203E",
+            },
+        },
+        description = "Pretending mount was Hr'd from the beginning so he can ninja it",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1080805884034293853",
+        category = "raid"
     },
 }
 
