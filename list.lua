@@ -282,8 +282,9 @@ t.case_table = {
                 guid="Player-4476-0366D090",
             },
             {
-                name= "Mallodk",
+                name= "Frosturken",
                 guid="Player-4476-046B8F36",
+                aliases={"Mallodk",},
             },
             {
                 name= "Brandog",
@@ -612,9 +613,9 @@ t.case_table = {
                 aliases="Traficpeople", 
             },
             {
-                name= "Munemmunem",
+                name= "Skazy",
                 guid="Player-4476-02D9A2C0",
-                aliases={"Moskri"}
+                aliases={"Moskri","Munemmunem"}
             },    
             -- Missing names: Ubicaamecog & Jebevitar 
         },
