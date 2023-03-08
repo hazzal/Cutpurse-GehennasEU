@@ -1921,6 +1921,17 @@ t.case_table = {
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1083015046801674240",
         category = "raid"
     },
+    {
+        players={
+            {
+                name= "Synthëx",
+                guid= "Player-4476-04E29DF9",
+            },
+        },
+        description = "Ninja'd Illustration in OS25",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1083038259225051246",
+        category = "raid"
+    },
 }
 
 --=========================================================================================
