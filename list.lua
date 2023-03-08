@@ -1840,7 +1840,7 @@ t.case_table = {
 
 
         },
-        description = "Colluding as a group to get their priest friend BiS wand",
+        description = "Malicious raidleader distrubing loot unfairly",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1079470475807293450",
         category = "raid"
     },
@@ -1851,8 +1851,74 @@ t.case_table = {
                 guid= "Player-4476-0336203E",
             },
         },
-        description = "Pretending mount was Hr'd from the beginning so he can ninja it",
+        description = "Ninja'd Mount in VoA25",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1080805884034293853",
+        category = "raid"
+    },
+    {
+        players={
+            {
+                name= "Maunukka",
+                guid= "Player-4476-043E1D7F",
+            },
+        },
+        description = "Intentionally griefing raid lockouts, leaving raids after 3 bosses",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1082998415069302795",
+        category = "raid"
+    },
+    {
+        players={
+            {
+                name= "Stalqer",
+                guid= "Player-4476-04390913",
+            },
+        },
+        description = "Malicious raidleader trading items to friends under the table/not rolling all items. Items did that get rolled got traded to the wrong people",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1082999796467507240",
+        category = "raid"
+    },
+    {
+        players={
+            {
+                name= "Goldeenn",
+                guid= "Player-4476-0431B162",
+            },
+        },
+        description = "Ninja'd Pennant Cloak in OS25",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1083002757226692679",
+        category = "raid"
+    },
+    {
+        players={
+            {
+                name= "Joockzter",
+                guid= "Player-4476-0474C94F",
+            },
+        },
+        description = "Ninja'd Fury of the Five Flights in OS25",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1083008529448837150",
+        category = "raid"
+    },
+    {
+        players={
+            {
+                name= "Papasfritas",
+                guid= "Player-4476-043E51EB",
+            },
+        },
+        description = "Raidleader using the hide SR function on softres.it and consequently assigning loot to the wrong players",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1083013188469129217",
+        category = "raid"
+    },
+    {
+        players={
+            {
+                name= "Ballekager",
+                guid= "Player-4476-0454CC4D",
+            },
+        },
+        description = "Multiple weeks in a row of disconnecting from raids after his SR bosses are dead",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1083015046801674240",
         category = "raid"
     },
 }
