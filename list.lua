@@ -1933,6 +1933,25 @@ t.case_table = {
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1083038259225051246",
         category = "raid"
     },
+    {
+        players={
+            {
+                name= "Simonezza",
+                guid= "Player-4476-035EA96E",
+            },
+            {
+                name= "Simonezzoo",
+                guid= "Player-4476-04CBECD6",
+            },
+            {
+                name= "Deletu",
+                guid= "Player-4476-045C3F71",
+            },
+        },
+        description = "History of scamming pugs of their lockouts for his guild's benefit, as well as using pugs to gear their terribly geared characters that don't fit reasonable requirements for the raid",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1083734526959812720",
+        category = "raid"
+    },
 }
 
 --=========================================================================================
