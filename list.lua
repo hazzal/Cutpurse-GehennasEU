@@ -1827,8 +1827,9 @@ t.case_table = {
     {
         players={
             {
-                name= "Flager",
+                name= "Sylvanãs",
                 guid= "Player-4476-043F1770",
+                aliases={"Flager",},
             },
             {
                 name= "Darkbrain",
