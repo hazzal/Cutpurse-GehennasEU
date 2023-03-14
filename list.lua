@@ -1836,13 +1836,14 @@ t.case_table = {
                 guid= "Player-4476-043EF3CC",
             },
             {
-                name= "Laughinskull",
+                name= "Crnaruka",
                 guid= "Player-4476-04685297",
+                aliases={"Laughinskull",},
             },
 
 
         },
-        description = "Malicious raidleader distrubing loot unfairly",
+        description = "Malicious raidleader distributing loot unfairly",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1079470475807293450",
         category = "raid"
     },
@@ -1956,12 +1957,14 @@ t.case_table = {
     {
         players={
             {
-                name= "Axmaster",
+                name= "Chessurect", 
                 guid= "Player-4476-03997304",
+                aliases={"Axmaster",},
             },
             {
-                name= "Mivas",
+                name= "Lxcii",
                 guid= "Player-4476-0399721A",
+                aliases={"Mivas",},
             },
             {
                 name= "Syver",
@@ -1972,6 +1975,18 @@ t.case_table = {
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1085165245670101173",
         category = "raid"
     },
+    {
+        players={
+            {
+                name= "Givemepink",
+                guid= "Player-4476-0376FF0A",
+            },
+        },
+        description = "Left raid after his SR did not drop",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1085245153356296345",
+        category = "raid",
+    },
+
 }
 
 --=========================================================================================
