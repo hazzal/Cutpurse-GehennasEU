@@ -1952,6 +1952,25 @@ t.case_table = {
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1083734526959812720",
         category = "raid"
     },
+    {
+        players={
+            {
+                name= "Axmaster",
+                guid= "Player-4476-03997304",
+            },
+            {
+                name= "Mivas",
+                guid= "Player-4476-0399721A",
+            },
+            {
+                name= "Syver",
+                guid= "Player-4476-039F0E4F",
+            },
+        },
+        description = "Ninja'd Grand Black War Mammoth in VoA",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1085165245670101173",
+        category = "raid"
+    },
 }
 
 --=========================================================================================
