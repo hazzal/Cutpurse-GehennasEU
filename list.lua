@@ -136,6 +136,11 @@ t.case_table = {
                 guid="Player-4476-0392863F",
                 aliases= {"Eviilboy"},
             },
+            {
+                name= "Gavin",
+                guid="Player-4476-03D99ED9",
+                aliases= {"Eviilboy"},
+            },
         },
         description = "GDKP host not adding all sold items to the total pot - Kicking players for unclear reasons and keeping their goldcut",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1000393193533222965",
