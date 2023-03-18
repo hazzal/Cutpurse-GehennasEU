@@ -1011,8 +1011,9 @@ t.case_table = {
         category = "raid"
     },
     {
-        name= "Deuuas",
+        name= "Deeuas",
         guid="Player-4476-0399C25A",
+        aliases={"Deuuas"},
         description = "Changes soft-reserves after boss kills based on what dropped",
 		url = "https://discord.com/channels/611132910992490506/998986805477126324/1050108311162323015",
         category = "raid"
@@ -1836,9 +1837,9 @@ t.case_table = {
                 guid= "Player-4476-043EF3CC",
             },
             {
-                name= "Crnaruka",
+                name= "Rarghum",
                 guid= "Player-4476-04685297",
-                aliases={"Laughinskull",},
+                aliases={"Laughinskull","Crnaruka"},
             },
 
 
@@ -1982,9 +1983,20 @@ t.case_table = {
                 guid= "Player-4476-0376FF0A",
             },
         },
-        description = "Left raid after his SR did not drop",
+        description = "Left raid after losing roll on their SR",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1085245153356296345",
         category = "raid",
+    },
+    {
+        players={
+            {
+                name= "Dantongr",
+                guid= "Player-4476-0441C1F8",
+            },
+        },
+        description = "Ninja'd Fluxing Energy Coils and Ignite infuser in Ulduar 10",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1086017163116163133",
+        category = "gdkp",
     },
 
 }
