@@ -1994,7 +1994,7 @@ t.case_table = {
                 guid= "Player-4476-0441C1F8",
             },
         },
-        description = "Ninja'd Fluxing Energy Coils and Ignite infuser in Ulduar 10",
+        description = "Ninja'd Fluxing Energy Coils and Pyrite infuser in Ulduar 10",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1086017163116163133",
         category = "gdkp",
     },
