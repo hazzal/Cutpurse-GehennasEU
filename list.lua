@@ -1895,8 +1895,9 @@ t.case_table = {
     {
         players={
             {
-                name= "Joockzter",
+                name= "Jocksteer",
                 guid= "Player-4476-0474C94F",
+                aliases= {"Joockzter",},
             },
         },
         description = "Ninja'd Fury of the Five Flights in OS25",
