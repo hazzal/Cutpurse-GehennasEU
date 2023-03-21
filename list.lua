@@ -1998,6 +1998,17 @@ t.case_table = {
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1086017163116163133",
         category = "gdkp",
     },
+    {
+        players={
+            {
+                name= "Barrush",
+                guid= "Player-4476-04E1CD9E",
+            },
+        },
+        description = "Ninjalooting everything in dungeons",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1087668485481570425",
+        category = "dungeon",
+    },
 
 }
 
