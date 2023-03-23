@@ -2015,6 +2015,61 @@ t.case_table = {
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1087668485481570425",
         category = "dungeon",
     },
+    {
+        players={
+            {
+                name= "Turbosug",
+                guid= "Player-4476-04DBE162",
+            },
+        },
+        description = "Ninja'd Furious Gladiator's Pendant of Salvation in VoA despite it being completely useless to him",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1088532081006620732",
+        category = "raid",
+    },
+    {
+        players={
+            {
+                name= "Bøømax",
+                guid= "Player-4476-04E4D5D9",
+            },
+        },
+        description = "Ninja'd Pennant Cloak and attempted to delete the SR sheet",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1088159804578594856",
+        category = "raid",
+    },
+    {
+        players={
+            {
+                name= "Ellbor",
+                guid= "Player-4476-040AAECA",
+            },
+        },
+        description = "Malicious GDKP host which refused to accept bid for item within time frame for his friend's benefit",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1088073500423630918",
+        category = "raid",
+    },
+    {
+        players={
+            {
+                name= "Peppathicc",
+                guid= "Player-4476-03A49094",
+            },
+        },
+        description = "GDKP host forcing raidmembers to buy suboptimal items and unfairly deducting",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1087478481664880804",
+        category = "gdkp",
+    },
+    {
+        players={
+            {
+                name= "Sungifted",
+                guid= "Player-4476-043CBC59",
+            },
+        },
+        description = "GDKP host forcing raidmembers to buy suboptimal items and unfairly deducting",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1087478481664880804",
+        category = "gdkp",
+    },
 
 }
 
