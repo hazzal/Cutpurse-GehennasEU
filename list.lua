@@ -1818,12 +1818,14 @@ t.case_table = {
         players={
 
             {
-                name= "Lilpampers",
+                name= "Divinestrike",
                 guid= "Player-4476-036CE7F6",
+                aliases={"Lilpampers",},
             },
             {
-                name= "Donbrutalius",
+                name= "Darkmancer",
                 guid= "Player-4476-04756FA1",
+                aliases={"Donbrutalius"},
             },
         },
         description = "GDKP host which stole the pot, dc'd and didn't return. General history of scamming",
