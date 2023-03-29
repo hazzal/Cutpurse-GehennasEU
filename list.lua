@@ -1471,8 +1471,8 @@ t.case_table = {
         players={
 
             {
-                name= "Nðyal",
-                aliases={"Soday",},
+                name= "Sauncx",
+                aliases={"Soday","Nðyal"},
                 guid= "Player-4476-02D4317E",
             },
         },
@@ -2020,8 +2020,9 @@ t.case_table = {
     {
         players={
             {
-                name= "Turbosug",
+                name= "Piratensbesk",
                 guid= "Player-4476-04DBE162",
+                aliases={"Turbosug",},
             },
         },
         description = "Ninja'd Furious Gladiator's Pendant of Salvation in VoA despite it being completely useless to him",
@@ -2071,6 +2072,39 @@ t.case_table = {
         description = "GDKP host forcing raidmembers to buy suboptimal items and unfairly deducting",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1087478481664880804",
         category = "gdkp",
+    },
+    {
+        players={
+            {
+                name= "Zuxilon",
+                guid= "Player-4476-03BA211F",
+            },
+        },
+        description = "Ninja'd Deadly Gladiator's Dreadplate Chestpiece in VoA.",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1090353173601992794",
+        category = "raid",
+    },
+    {
+        players={
+            {
+                name= "Carbohydrate",
+                guid= "Player-4476-043E5618",
+            },
+        },
+        description = "Leaving/fake DCing when his SR doesn't drop multiple times.",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1090355468649627648",
+        category = "raid",
+    },
+    {
+        players={
+            {
+                name= "Workër",
+                guid= "Player-4476-0395E1C7",
+            },
+        },
+        description = "Griefing raids by creating fake Scambuster announcements",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1090628099730837535",
+        category = "raid",
     },
 
 }
