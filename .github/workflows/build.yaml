@@ -27,6 +27,28 @@ jobs:
           CF_API_KEY: ${{ secrets.CF_API_KEY }}
           GITHUB_OAUTH: ${{ secrets.GITHUB_TOKEN }}
 
+---
+name: lint
+on:
+  push:
+    branches:
+      - main
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Install and run Luacheck
+        uses: nebularg/actions-luacheck@v1
+        with:
+          files: list.lua
+          args: "-o 011"
+          annotate: warning
+
 #      - name: Send Status to Discord
 #        uses: nebularg/actions-discord-webhook@v1
 #        with:
