@@ -2117,6 +2117,32 @@ t.case_table = {
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1090634531301752922",
         category = "gdkp",
     },
+    {
+        players={
+            {
+                name= "Ezm",
+                guid= "Player-4476-04CB3163",
+            },
+            {
+                name= "Cle",
+                guid= "Player-4476-04CB3071",
+            },
+        },
+        description = "Ninjaing Abyss Crystals because \"pot was too low\"",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1091475052941283418",
+        category = "gdkp",
+    },
+    {
+        players={
+            {
+                name= "Alvarex",
+                guid= "Player-4476-04405768",
+            },
+        },
+        description = "Stealing money from GDKP Pot",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1091478687242797216",
+        category = "gdkp",
+    },
 
 }
 
