@@ -2169,7 +2169,7 @@ t.case_table = {
         players={
             {
                 name= "Danngull",
-                guid= "Player-4476-04D9A099",
+                guid= "Player-4476-0396AEFB",
             },
         },
         description = "History of changing soft-reserves after boss dies",
