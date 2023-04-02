@@ -2154,6 +2154,17 @@ t.case_table = {
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1091812914471637052",
         category = "raid",
     },
+    {
+        players={
+            {
+                name= "Pypsiee",
+                guid= "Player-4476-04D9A099",
+            },
+        },
+        description = "GDKP host stealing gold/items on multiple occasions",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1092179296786862221",
+        category = "gdkp",
+    },
 
 }
 
