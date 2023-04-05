@@ -1570,8 +1570,9 @@ t.case_table = {
         players={
 
             {
-                name= "Døko",
+                name= "Korrag",
                 guid= "Player-4476-04728703",
+                aliases={"Døko",},
             },
         },
         description = "Ninja'd Drape of the Deadly Foe in Naxxramas",
