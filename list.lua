@@ -1570,8 +1570,9 @@ t.case_table = {
         players={
 
             {
-                name= "Døko",
+                name= "Korrag",
                 guid= "Player-4476-04728703",
+                aliases={"Døko",},
             },
         },
         description = "Ninja'd Drape of the Deadly Foe in Naxxramas",
@@ -2176,7 +2177,36 @@ t.case_table = {
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1092194671737962586",
         category = "raid",
     },
-
+    {
+        players={
+            {
+                name= "Tymanfrost",
+                guid= "Player-4476-0466993A",
+            },
+        },
+        description = "Ninja'd Soul Preserver as Mage",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1092421754326106123",
+        category = "raid",
+    },
+    {
+        players={
+            {
+                name= "Dårtemarie",
+                guid= "Player-4476-043D700D",
+            },
+            {
+                name= "Svagborg",
+                guid= "Player-4476-043E4198",
+            },
+            {
+                name= "Svambambi",
+                guid= "Player-4476-043D78FD",
+            },            
+        },
+        description = "Ninja'd Royal Seal of King Llane in Ulduar and kicked the player from the raid it was ninja'd from",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1092424384737714268",
+        category = "raid",
+    },
 }
 
 --=========================================================================================
