@@ -510,8 +510,12 @@ t.case_table = {
                 name= "Mxty",
                 guid="Player-4476-04326437",
             },
+            {
+                name= "Nøes",
+                guid="Player-4476-04413274",
+            },
         },
-        description = "Ninja looted various caster items as a Rogue - Kicking players for unclear reasons and keeping their goldcut - Takes profession materials for enchants/crafts and logs off",
+        description = "Ninja looted items in Naxxramas - Kicking players for unclear reasons and keeping their goldcut - Takes profession materials for enchants/crafts and logs off",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1018865335228710913",
         category = "raid"
     },
