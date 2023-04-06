@@ -710,7 +710,7 @@ t.case_table = {
             {
                 name= "Childmebro",
                 guid="Player-4476-03B9097E",
-            },      
+            },
         },
         description = "Ninja looted Ashes of Al'ar in Tempest Keep - GDKP host not adding all sold items to the total pot",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/999028176623763577",
@@ -1192,11 +1192,11 @@ t.case_table = {
         name="Benyamin",
         guid="Player-4476-03B9D310",
         aliases={"Benyamin","Hardin"},
-        description="GDKP gold pot scammer across multiple raids - GDKP host not adding all sold items to the total pot - Ninjalooting across multiple raids",
+        description="Multiple GDKP gold pot scammer - GDKP host not adding all sold items to the total pot - Ninjalooting - Blackmailing raidmembers by asking for 'tips' in order to receive their SR'd items",
         url="https://discord.com/channels/611132910992490506/998986805477126324/1064174093819203614",
         category = "gdkp"
     },
-    {
+   {
         name="Axeyoink",
         guid="Player-4476-043E657F",
         description="Ninja looted pre-bis Axe for off-spec and tried to extort payment",
@@ -2193,19 +2193,30 @@ t.case_table = {
             {
                 name= "Dårtemarie",
                 guid= "Player-4476-043D700D",
-            },
-            {
+    },
+    {
                 name= "Svagborg",
                 guid= "Player-4476-043E4198",
             },
             {
                 name= "Svambambi",
                 guid= "Player-4476-043D78FD",
-            },            
+            },
         },
         description = "Ninja'd Royal Seal of King Llane in Ulduar and kicked the player from the raid it was ninja'd from",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1092424384737714268",
         category = "raid",
+    },
+    {
+        players={
+            {
+                name= "Benjjamin",
+                guid= "Player-4476-03856E2D",
+            },
+        },
+        description = "Multiple GDKP gold pot scammer - GDKP host not adding all sold items to the total pot - Ninjalooting - Blackmailing raidmembers by asking for 'tips' in order to receive their SR'd items",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1064174093819203614",
+        category = "gdkp",
     },
 }
 
