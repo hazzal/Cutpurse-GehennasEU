@@ -1193,14 +1193,6 @@ t.case_table = {
         category = "gdkp"
     },
     {
-        name="Benyamin",
-        guid="Player-4476-03B9D310",
-        aliases={"Benyamin","Hardin"},
-        description="Multiple GDKP gold pot scammer - GDKP host not adding all sold items to the total pot - Ninjalooting - Blackmailing raidmembers by asking for 'tips' in order to receive their SR'd items",
-        url="https://discord.com/channels/611132910992490506/998986805477126324/1064174093819203614",
-        category = "gdkp"
-    },
-   {
         name="Axeyoink",
         guid="Player-4476-043E657F",
         description="Ninja looted pre-bis Axe for off-spec and tried to extort payment",
@@ -2216,6 +2208,11 @@ t.case_table = {
             {
                 name= "Benjjamin",
                 guid= "Player-4476-03856E2D",
+            },
+            {
+                name="Benyamin",
+                guid="Player-4476-03B9D310",
+                aliases={"Benyamin","Hardin"},
             },
         },
         description = "Multiple GDKP gold pot scammer - GDKP host not adding all sold items to the total pot - Ninjalooting - Blackmailing raidmembers by asking for 'tips' in order to receive their SR'd items",
