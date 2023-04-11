@@ -2234,6 +2234,17 @@ t.case_table = {
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1094114079871868978",
         category = "gdkp",
     },
+    {
+        players={
+            {
+                name= "Inhoker",
+                guid= "Player-4476-03BE61B6",
+            },
+        },
+        description = "GDKP host underpaying cuts and shady behaviour to pocket more gold for himself",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1095135650119954533",
+        category = "gdkp",
+    },
 }
 
 --=========================================================================================
