@@ -2256,6 +2256,17 @@ t.case_table = {
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1096090045875757156",
         category = "gdkp",
     },
+    {
+        players={
+            {
+                name= "Minichery",
+                guid= "Player-4476-043348F1",
+            },
+        },
+        description = "Ninja looted Shadow of the Ghoul in Naxxramas 10",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1096134266578026556",
+        category = "raid",
+    },
 }
 
 --=========================================================================================
