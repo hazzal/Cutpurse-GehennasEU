@@ -2245,6 +2245,17 @@ t.case_table = {
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1095135650119954533",
         category = "gdkp",
     },
+    {
+        players={
+            {
+                name= "Paladps",
+                guid= "Player-4476-0458471C",
+            },
+        },
+        description = "GDKP host scamming pot splits (80-20 split - 80% to host)",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1096090045875757156",
+        category = "gdkp",
+    },
 }
 
 --=========================================================================================
