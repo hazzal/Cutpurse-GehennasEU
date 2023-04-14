@@ -2267,6 +2267,25 @@ t.case_table = {
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1096134266578026556",
         category = "raid",
     },
+    {
+        players={
+            {
+                name= "Nazgùl",
+                guid= "Player-4476-03449200",
+            },
+            {
+                name= "Mzoox",
+                guid= "Player-4476-03591AF6",
+            },
+            {
+                name= "Junsnow",
+                guid= "Player-4476-0374C962",
+            },
+        },
+        description = "Stole GDKP pot and banned raiders from his Discord server when they asked for cut",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1096422938841985074",
+        category = "gdkp",
+    },
 }
 
 --=========================================================================================
