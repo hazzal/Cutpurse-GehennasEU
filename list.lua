@@ -715,8 +715,12 @@ t.case_table = {
                 name= "Childmebro",
                 guid="Player-4476-03B9097E",
             },
+            {
+                name= "Shikybeaky",
+                guid="Player-4476-0444B678",
+            },
         },
-        description = "Ninja looted Ashes of Al'ar in Tempest Keep - GDKP host not adding all sold items to the total pot",
+        description = "Ninja looted Ashes of Al'ar by advertising ingame no HR but then on Discord writing that it's HR in a hidden channel from the public. Mount was removed by GMs",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/999028176623763577",
         category = "raid"
     },
@@ -2280,6 +2284,10 @@ t.case_table = {
             {
                 name= "Junsnow",
                 guid= "Player-4476-0374C962",
+            },
+            {
+                name= "Bearfriend",
+                guid= "Player-4476-040A518C",
             },
         },
         description = "Stole GDKP pot and banned raiders from his Discord server when they asked for cut",
