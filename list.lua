@@ -1150,8 +1150,8 @@ t.case_table = {
                 guid="Player-4476-0497952A",
             },
         },
-        description = "Very well known for kicking players for unclear reasons and keeping their goldcut - GDKP host forcing people to buy suboptimal items withholding their cut",
-        url = "https://discord.com/channels/611132910992490506/998986805477126324/1028727680507588608",
+        description = "Notorious for kicking people from raids for little reason, goldbanning people and keeping their cut, bidding people up on various items and then trying to sell them under the table",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1096436662713733130",
         category = "gdkp"
     },
     {
