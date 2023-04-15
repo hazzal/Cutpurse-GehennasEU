@@ -428,7 +428,7 @@ t.case_table = {
         guid="Player-4476-03867192",
         description = "Multiple entries of griefing raids such as AFK or pulling extra mobs",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/999037778392256542",
-        category = "other"
+        -- category = "other"
     },
     --[[ Unlikely same individual who got blacklisted in first place, see: https://discord.com/channels/611132910992490506/895978320095748107/1054797300129599488
         {
@@ -551,7 +551,7 @@ t.case_table = {
         guid="Player-4476-03B7CF9C",
         description = "Multiple entries of griefing raids such as AFK or pulling extra mobs ",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/999038282342072361",
-        category = "other"
+        -- category = "other"
     },
     {
         players={
@@ -911,7 +911,7 @@ t.case_table = {
         guid="Player-4476-049984A5",
         description = "Takes profession materials for enchants/crafts and logs off",
 		url = "https://discord.com/channels/611132910992490506/998986805477126324/1041059447545540608",
-        category = "other"
+        -- category = "other"
     },
     {
         name= "Nesk",
@@ -1201,7 +1201,7 @@ t.case_table = {
         guid="Player-4476-043E657F",
         description="Ninja looted pre-bis Axe for off-spec and tried to extort payment",
         url="https://discord.com/channels/611132910992490506/895978320095748107/1027154302634037249",
-        category = "other"
+        -- category = "other"
     },
     {
         name="Vedz",
@@ -1453,7 +1453,7 @@ t.case_table = {
         },
         description = "Scammed 400k gold in-game via online poker. Blocked communication with the winner",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1072549038194446448",
-        category = "other"
+        -- category = "other"
     },
     {
         players={
@@ -1465,7 +1465,7 @@ t.case_table = {
         },
         description = "Regularly scamming enchanting materials",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1073235517342236713",
-        category = "other"
+        -- category = "other"
     },
     {
         players={
@@ -1478,7 +1478,7 @@ t.case_table = {
         },
         description = "Scammer known as Soday/Dashqt impersonating innocent players. Anything from holiday events, deathrolls, fake GDKP budgets, promising fake payments e.g. gold on drop, now paying for rename services to tarnish the reputation of others. Very well known for making IRL threats",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1073628788283416647",
-        category = "other"
+        -- category = "other"
     },
     {
         players={
@@ -1777,7 +1777,7 @@ t.case_table = {
         },
         description = "Ninja'd Embrace of the Spider as a Prot Paladin",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1078284632082087966",
-        category = "other"
+        -- category = "other"
     },
     {
         players={
