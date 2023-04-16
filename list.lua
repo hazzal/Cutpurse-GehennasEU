@@ -2193,14 +2193,18 @@ t.case_table = {
             {
                 name= "Dårtemarie",
                 guid= "Player-4476-043D700D",
-    },
-    {
+            },
+            {
                 name= "Svagborg",
                 guid= "Player-4476-043E4198",
             },
             {
                 name= "Svambambi",
                 guid= "Player-4476-043D78FD",
+            },
+            {
+                name= "Swagborg",
+                guid= "Player-4476-043E45F8",
             },
         },
         description = "Ninja'd Royal Seal of King Llane in Ulduar and kicked the player from the raid it was ninja'd from",
@@ -2232,6 +2236,10 @@ t.case_table = {
             {
                 name= "Nicøbén",
                 guid= "Player-4476-04EA86F3",
+            },
+            {
+                name= "Nicobén",
+                guid= "Player-4476-04E3D652",
             },
         },
         description = "GDKP host not bidding on multiple Ulduar hardmode upgrades and then later seen equipping them for free without adding to the pot",
@@ -2293,6 +2301,17 @@ t.case_table = {
         description = "Stole GDKP pot and banned raiders from his Discord server when they asked for cut",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1096422938841985074",
         category = "gdkp",
+    },
+    {
+        players={
+            {
+                name= "Severiano",
+                guid= "Player-4476-04E8B8FE",
+            },
+        },
+        description = "Ninja'd Pennant Cloak in Obsidian Sanctum",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1096121784409006212",
+        category = "raid",
     },
 }
 
