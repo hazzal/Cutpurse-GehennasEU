@@ -1096,8 +1096,9 @@ t.case_table = {
                 guid="Player-4476-04372DC6",
             },
             {
-                name= "Mìstress",
+                name= "Cinciban",
                 guid="Player-4476-04533B53",
+                aliases={"Mìstress"},
             },
             {
                 name= "Titidriveby",
@@ -1892,8 +1893,9 @@ t.case_table = {
     {
         players={
             {
-                name= "Goldeenn",
+                name= "Terorcast",
                 guid= "Player-4476-0431B162",
+                aliases= {"Goldeenn"},
             },
         },
         description = "Ninja'd Pennant Cloak in OS25",
