@@ -2313,6 +2313,60 @@ t.case_table = {
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1096121784409006212",
         category = "raid",
     },
+    {
+        players={
+            {
+                name= "Qwrrpth",
+                guid= "Player-4476-04D31490",
+            },
+            {
+                name= "Qwrpth",
+                guid= "Player-4476-043D825B",
+            },
+            {
+                name= "Qwpth",
+                guid= "Player-4476-043D72AB",
+            },
+            {
+                name= "Qwipth",
+                guid= "Player-4476-043D7A30",
+            },
+            {
+                name= "Qrepth",
+                guid= "Player-4476-043D7AA2",
+            },
+            {
+                name= "Qwepth",
+                guid= "Player-4476-043D8CA3",
+            },
+            {
+                name= "Qwopth",
+                guid= "Player-4476-0471BFDB",
+            },
+            {
+                name= "Qwupth",
+                guid= "Player-4476-043D8C31",
+            },
+            {
+                name= "Qwypth",
+                guid= "Player-4476-043D8C31",
+            },
+        },
+        description = "GDKP host removed a players full cut, without justification. Subsequently tried to avoid blacklist by multiple times misrepresenting the case and lying about the reasoning for deducting the cut. ",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1097490518121906217",
+        category = "gdkp",
+    },
+    {
+        players={
+            {
+                name= "Dekingz",
+                guid= "Player-4476-03DDF5B2",
+            },
+        },
+        description = "Dungeon booster DC'ing after payment is received in advance and not returning it",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1097571460744224931",
+        category = "dungeon",
+    },
 }
 
 --=========================================================================================
