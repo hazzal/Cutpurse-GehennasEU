@@ -1763,8 +1763,12 @@ t.case_table = {
                 name= "Wrsx",
                 guid= "Player-4476-045E1DB1",
             },
+            {
+                name= "Vrsdk",
+                guid= "Player-4476-04CBE05A",
+            },
         },
-        description = "GDKP host AFKing his own runs and unfairly kicking and deducting players when called out about it, resulting in a wasted lockout for those players",
+        description = "GDKP host AFKing his own runs, unfairly kicking and deducting players when called out about it, resulting in a wasted lockout for those players",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1077966279522144367",
         category = "raid"
     },
