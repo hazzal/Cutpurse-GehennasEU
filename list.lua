@@ -2247,6 +2247,14 @@ t.case_table = {
                 name= "Nicobén",
                 guid= "Player-4476-04E3D652",
             },
+            {
+                name= "Nïcoben",
+                guid= "Player-4476-04E3182A",
+            },
+            {
+                name= "Nicóben",
+                guid= "Player-4476-04ED2AF9",
+            },
         },
         description = "GDKP host not bidding on multiple Ulduar hardmode upgrades and then later seen equipping them for free without adding to the pot",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1094114079871868978",
