@@ -2373,6 +2373,44 @@ t.case_table = {
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1097571460744224931",
         category = "dungeon",
     },
+    {
+        players={
+            {
+                name= "Awake",
+                guid= "Player-4476-04CD597E",
+            },
+            {
+                name= "Dreamer",
+                guid= "Player-4476-045D68E9",
+            },
+            {
+                name= "Bricktop",
+                guid= "Player-4476-04C2A368",
+            },
+        },
+        description = "Removing a players full cut in a GDKP run with no justification.",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1098890360236810300",
+        category = "gdkp",
+    },
+    {
+        players={
+            {
+                name= "Jixta",
+                guid= "Player-4476-031AC5DD",
+            },
+            {
+                name= "Sindibad",
+                guid= "Player-4476-03368050",
+            },
+            {
+                name= "Voidart",
+                guid= "Player-4476-03664690",
+            },
+        },
+        description = "Scammed a whole gold pot, long history of making arbitrary on the spot rules for his GDKPs, deducting for no reason, leaving others' raids on the first boss, hosting terrible quality runs",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1098999704190210088",
+        category = "gdkp",
+    },
 }
 
 --=========================================================================================
