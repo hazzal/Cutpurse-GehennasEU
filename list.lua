@@ -2331,6 +2331,10 @@ t.case_table = {
                 name= "Bearfriend",
                 guid= "Player-4476-040A518C",
             },
+            {
+                name= "Beautifull",
+                guid= "Player-4476-03877497",
+            },
         },
         description = "Stole GDKP pot and banned raiders from his Discord server when they asked for cut",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1096422938841985074",
