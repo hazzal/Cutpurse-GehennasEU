@@ -2480,6 +2480,32 @@ t.case_table = {
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1100482892141965503",
         category = "raid",
     },
+    {
+        players={
+            {
+                name= "Lifegiving",
+                guid= "Player-4476-04D1F7BA",
+            },
+        },
+        description = "GDKP host which stole a whole gold pot",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1101198727449940019",
+        category = "gdkp",
+    },
+    {
+        players={
+            {
+                name= "Warróx",
+                guid= "Player-4476-04E16AE7",
+            },
+            {
+                name= "Kavii",
+                guid= "Player-4476-04E84B71",
+            },
+        },
+        description = "Ninja'd Dying Curse, refused to roll it out. Gave the trinket directly to severely undergeared friend",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1101196803308789830",
+        category = "raid",
+    },
 }
 
 --=========================================================================================
