@@ -477,9 +477,29 @@ t.case_table = {
                 guid="Player-4476-038E4EA4",
                 aliases={"Soulsnatcha"},
             },
+            {
+                name= "Mîlakunis",
+                guid="Player-4476-04E92739",
+            },
+            {
+                name= "Vlonethug",
+                guid="Player-4476-038B6467",
+            },
+            {
+                name= "Vlonex",
+                guid="Player-4476-03BD9373",
+            },
+            {
+                name= "Pocketgg",
+                guid="Player-4476-04DF0276",
+            },
+            {
+                name= "Plainwrld",
+                guid="Player-4476-04ED7E82",
+            },
         },
-        description = "Kicking players for unclear reasons and keeping their goldcut - GDKP host not adding all sold items to the total pot",
-        url = "https://discord.com/channels/611132910992490506/998986805477126324/999036129078677514",
+        description = "Multiple instances of scamming GDKPs, ninjaing items",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1101189794190606357",
         category = "gdkp"
     },
     {
@@ -2418,6 +2438,43 @@ t.case_table = {
         description = "Scammed a whole gold pot, long history of making arbitrary on the spot rules for his GDKPs, deducting for no reason, leaving others' raids on the first boss, hosting terrible quality runs",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1098999704190210088",
         category = "gdkp",
+    },
+    {
+        players={
+            {
+                name= "Spaceflower",
+                guid= "Player-4476-04497FC2",
+            },
+            {
+                name= "Kisuliini",
+                guid= "Player-4476-04EA55BA",
+            },
+        },
+        description = "Maliciously kicking players on the last boss of Heroics in order to take an item he wants",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1100374353314582620",
+        category = "dungeon",
+    },
+    {
+        players={
+            {
+                name= "Csa",
+                guid= "Player-4476-0394A52E",
+            },
+        },
+        description = "Disconnecting with items and goldpots, ninja'ing in Heroics for disenchant",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1100464717316767744",
+        category = "gdkp",
+    },
+    {
+        players={
+            {
+                name= "Frostiebob",
+                guid= "Player-4476-0394A52E",
+            },
+        },
+        description = "Ninjaing Focusing Key to the Iris, slash ignoring players when called out about it",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1100482892141965503",
+        category = "raid",
     },
 }
 
