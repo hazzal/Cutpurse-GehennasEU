@@ -2187,6 +2187,10 @@ t.case_table = {
                 name= "Pypsiee",
                 guid= "Player-4476-04D9A099",
             },
+            {
+                name= "Pypsi",
+                guid= "Player-4476-04D9A08C",
+            },
         },
         description = "GDKP host stealing gold/items on multiple occasions",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1092179296786862221",
