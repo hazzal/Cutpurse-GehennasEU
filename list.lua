@@ -2511,6 +2511,39 @@ t.case_table = {
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1101196803308789830",
         category = "raid",
     },
+    {
+        players={
+            {
+                name= "Sarcopagus",
+                guid= "Player-4476-043D3E0B",
+            },
+        },
+        description = "Stole a whole GDKP pot",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1101502353770827886",
+        category = "gdkp",
+    },
+    {
+        players={
+            {
+                name= "Wildelf",
+                guid= "Player-4476-03D98DA4",
+            },
+        },
+        description = "Ninja'd mount in VoA",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1102699694221697024",
+        category = "raid",
+    },
+    {
+        players={
+            {
+                name= "Amertsgetyvi",
+                guid= "Player-4476-04E3365C",
+            },
+        },
+        description = "Didnt pay out peoples full cut in an 80% equal split GDKP, pocketing an extra 6k+ gold.",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1102730805362561094",
+        category = "gdkp",
+    },
 }
 
 --=========================================================================================
