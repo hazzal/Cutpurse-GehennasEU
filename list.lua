@@ -2553,9 +2553,19 @@ t.case_table = {
         },
         description = "Multiple occasions of cut and pot scamming + ninjaing entire pots.",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1107100502853963906",
-        category = "gdkp",  
-    }
-}
+        category = "gdkp",
+    },
+    {
+        players={
+            {
+                name= "Sarmast",
+                guid= "Player-4476-037807FD",
+            },
+        },
+        description = "Multiple occasians of cut and pot scamming + ninjaing entire pots",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1107100502853963906",
+        category = "gdkp",
+    },
 
 --=========================================================================================
 -- The provider_table is configured with the above variables, you don't need to touch this.
