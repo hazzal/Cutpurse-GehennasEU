@@ -2544,6 +2544,17 @@ t.case_table = {
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1102730805362561094",
         category = "gdkp",
     },
+    {
+        players={
+            {
+                name= "Khaloo",
+                guid= "Player-4476-03714211",
+            },
+        },
+        description = "Multiple occasions of cut and pot scamming + ninjaing entire pots.",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1107100502853963906",
+        category = "gdkp",  
+    }
 }
 
 --=========================================================================================
