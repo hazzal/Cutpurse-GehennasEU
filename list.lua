@@ -362,8 +362,9 @@ t.case_table = {
         category ="raid"
     },
     {
-        name= "Qlxx",
+        name= "Yagamy",
         guid="Player-4476-0449DE89",
+        aliases={"Qlxx",},
         description = "Raidleader which incorrectly gave a softreserved item to another player",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1034879277465874484",
         category = "raid"
