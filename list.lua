@@ -2548,8 +2548,9 @@ t.case_table = {
     {
         players={
             {
-                name= "Khaloo",
+                name= "Bagwwell",
                 guid= "Player-4476-03714211",
+                aliases= {"Khaloo",},
             },
         },
         description = "Multiple occasions of cut and pot scamming + ninjaing entire pots.",
@@ -2567,6 +2568,44 @@ t.case_table = {
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1107100502853963906",
         category = "gdkp",
     },
+    {
+        players={
+            {
+                name= "Jessepinkmân",
+                guid= "Player-4476-04EABAA0",
+            },
+        },
+        description = "Stole an entire world tour GDKP pot",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1107404196644397188",
+        category = "gdkp",
+    },
+    {
+        players={
+            {
+                name= "Destrroyerr",
+                guid= "Player-4476-04EE707B",
+            },
+        },
+        description = "Ninjaing items in GDKPs,  stealing gold from the pot",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1109127252811206776",
+        category = "gdkp",
+    },
+
+    --[[ TEMPLATE COPY IT AND PASTE IT ABOVE THIS TEMPLATE FOR EASIER FORMATTING
+    --COPY BELOW
+    {
+        players={
+            {
+                name= "NAME",
+                guid= "GUID",
+            },
+        },
+        description = "SHORT REASON",
+        url = "LINK TO ACTUAL BLACKLIST ENTRY",
+        category = "gdkp",
+    },
+    --COPY ABOVE
+    ]]
 }
 
 --=========================================================================================
