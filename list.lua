@@ -2444,6 +2444,10 @@ t.case_table = {
                 name= "Voidart",
                 guid= "Player-4476-03664690",
             },
+            {
+                name= "Yugurta",
+                guid= "Player-4476-03BFAD29",
+            },
         },
         description = "Scammed a whole gold pot, long history of making arbitrary on the spot rules for his GDKPs, deducting for no reason, leaving others' raids on the first boss, hosting terrible quality runs",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1098999704190210088",
@@ -2589,6 +2593,39 @@ t.case_table = {
         description = "Ninjaing items in GDKPs,  stealing gold from the pot",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1109127252811206776",
         category = "gdkp",
+    },
+    {
+        players={
+            {
+                name= "Lichrei",
+                guid= "Player-4476-046FB90A",
+            },
+        },
+        description = "Kicking players from the raid after their softreserve dropped, ignoring requests to roll out items",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1110524274395062314",
+        category = "gdkp",
+    },
+    {
+        players={
+            {
+                name= "Jixi",
+                guid= "Player-4476-04E9DA7E",
+            },
+        },
+        description = "Ninja'd Reply Code from Algalon by saying it's HR when it wasn't",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1110526751404212254",
+        category = "gdkp",
+    },
+    {
+        players={
+            {
+                name= "Moomoomilka",
+                guid= "Player-4476-0378B5A4",
+            },
+        },
+        description = "Intentionally griefing Ulduar raids by talking to Keepers then going offline",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1110529122062585877",
+        category = "raid",
     },
 
     --[[ TEMPLATE COPY IT AND PASTE IT ABOVE THIS TEMPLATE FOR EASIER FORMATTING
