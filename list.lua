@@ -1416,9 +1416,9 @@ t.case_table = {
         players={
 
             {
-                name= "Silivren",
+                name= "Nazgrul",
                 guid= "Player-4476-03323054",
-                aliases={"Thelstra",}
+                aliases={"Thelstra","Silivren"}
             },
         },
         description = "Trade scammer by trying to trade similar looking items worth a much lesser value",
