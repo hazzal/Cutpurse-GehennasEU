@@ -2530,8 +2530,9 @@ t.case_table = {
     {
         players={
             {
-                name= "Wildelf",
+                name= "Énøx",
                 guid= "Player-4476-03D98DA4",
+                aliases= {"Wildelf",},
             },
         },
         description = "Ninja'd mount in VoA",
