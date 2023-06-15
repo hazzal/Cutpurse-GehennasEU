@@ -2683,6 +2683,17 @@ t.case_table = {
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1106166553147355136",
         category = "gdkp",
     },
+    {
+        players={
+            {
+                name= "Marmulak",
+                guid= "Player-4476-04F43AE9",
+            },
+        },
+        description = "Raidleader which incorrectly gave a softreserved item to another player",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1119014984983261304",
+        category = "raid",
+    },
     --[[ TEMPLATE COPY IT AND PASTE IT ABOVE THIS TEMPLATE FOR EASIER FORMATTING
     --COPY BELOW
     {
