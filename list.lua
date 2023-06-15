@@ -2628,7 +2628,61 @@ t.case_table = {
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1110529122062585877",
         category = "raid",
     },
-
+    {
+        players={
+            {
+                name= "Wtsdps",
+                guid= "Player-4476-04162CF8",
+            },
+        },
+        description = "Stole full GDKP pots, and other various offenses",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1010672877168771222",
+        category = "gdkp",
+    },
+    {
+        players={
+            {
+                name= "Omniknighto",
+                guid= "Player-4476-04E10D16",
+            },
+        },
+        description = "Letting items time out, trading people the wrong items, not rolling out items.",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1114858006044221500",
+        category = "raid",
+    },
+    {
+        players={
+            {
+                name= "Seetank",
+                guid= "Player-4476-04D5142C",
+            },
+        },
+        description = "Ninjaing EoE mount and WT GDKP Pot",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1113395230146838600",
+        category = "gdkp",
+    },
+    {
+        players={
+            {
+                name= "Ishtarr",
+                guid= "Player-4476-03A3E3A1",
+            },
+        },
+        description = "Giving loot to people even when said person lost the roll.",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1113394258318213150",
+        category = "raid",
+    },
+    {
+        players={
+            {
+                name= "Bozorrg",
+                guid= "Player-4476-04AD3593",
+            },
+        },
+        description = "Denying bids to keep item for himself, trading no cut and incomplete cuts to players",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1106166553147355136",
+        category = "gdkp",
+    },
     --[[ TEMPLATE COPY IT AND PASTE IT ABOVE THIS TEMPLATE FOR EASIER FORMATTING
     --COPY BELOW
     {
