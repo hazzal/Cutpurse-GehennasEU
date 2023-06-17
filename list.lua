@@ -2694,6 +2694,17 @@ t.case_table = {
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1119014984983261304",
         category = "raid",
     },
+    {
+        players={
+            {
+                name= "Umpro",
+                guid= "Player-4476-03757B12",
+            },
+        },
+        description = "Multiple offenses of leaving runs when their SR didn't drop and ninjaed Arcanite Reaper",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1119742969491230731",
+        category = "raid",
+    },
     --[[ TEMPLATE COPY IT AND PASTE IT ABOVE THIS TEMPLATE FOR EASIER FORMATTING
     --COPY BELOW
     {
