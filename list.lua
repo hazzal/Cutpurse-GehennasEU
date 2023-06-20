@@ -463,7 +463,7 @@ t.case_table = {
                 guid="Player-4476-03484C7A",
             },
         },
-        description = "Raidleader which incorrectly gave a softreserved item to another player",
+        description = "Raidleader giving SR'd items to his friends without rolling",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/999027805994090607",
         category ="raid"
     },
@@ -566,13 +566,6 @@ t.case_table = {
         description = "Kicking players for unclear reasons and keeping their goldcut",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/999036319751733358",
         category = "gdkp"
-    },
-    {
-        name= "Itseperkele",
-        guid="Player-4476-03B7CF9C",
-        description = "Multiple entries of griefing raids such as AFK or pulling extra mobs ",
-        url = "https://discord.com/channels/611132910992490506/998986805477126324/999038282342072361",
-        -- category = "other"
     },
     {
         players={
@@ -711,41 +704,6 @@ t.case_table = {
         category = "gdkp"
     },
     {
-        players={
-            {
-                name= "Shiky",
-                guid="Player-4476-03A370D8",
-            },
-            {
-                name= "Shikyy",
-                guid="Player-4476-03A3AC5B",
-            },
-            {
-                name= "Avatarstate",
-                guid="Player-4476-03AF1BDF",
-            },
-            {
-                name= "Heydarling",
-                guid="Player-4476-03A0874F",
-            },
-            {
-                name= "Hornybich",
-                guid="Player-4476-03A21233",
-            },
-            {
-                name= "Childmebro",
-                guid="Player-4476-03B9097E",
-            },
-            {
-                name= "Shikybeaky",
-                guid="Player-4476-0444B678",
-            },
-        },
-        description = "Ninja looted Ashes of Al'ar by advertising ingame no HR but then on Discord writing that it's HR in a hidden channel from the public. Mount was removed by GMs",
-        url = "https://discord.com/channels/611132910992490506/998986805477126324/999028176623763577",
-        category = "raid"
-    },
-    {
         name= "Lisaler",
         guid="Player-4476-043906AA",
         aliases={"Blastblast"},
@@ -766,22 +724,6 @@ t.case_table = {
         },
         description = "GDKP gold pot scammer. Stole 100k+ in tier-7 world tour",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1042862458559270972",
-        category = "gdkp"
-    },
-    {
-        players={
-
-            {
-                name= "Mamichulaxo",
-                guid="Player-4476-03D648E2",
-            },
-            {
-                name= "Pìnky",
-                guid="Player-4476-038A756B",
-            },      
-        },
-        description = "GDKP host not adding all sold items to the total pot",
-        url = "https://discord.com/channels/611132910992490506/998986805477126324/999024451649814558",
         category = "gdkp"
     },
     {
@@ -1026,7 +968,7 @@ t.case_table = {
     {
         name= "Darknesswow",
         guid="Player-4476-039FB0B2",
-        description = "GDKP host fake bidding and not following through - Raidleader which incorrectly gave a softreserved item to another player",
+        description = "GDKP host fake bidding up his raid members - Raidleader which incorrectly gave a softreserved item to another player",
 		url = "https://discord.com/channels/611132910992490506/998986805477126324/999030526998491166",
         category = "gdkp"
     },
@@ -1219,13 +1161,6 @@ t.case_table = {
         category = "gdkp"
     },
     {
-        name="Axeyoink",
-        guid="Player-4476-043E657F",
-        description="Ninja looted pre-bis Axe for off-spec and tried to extort payment",
-        url="https://discord.com/channels/611132910992490506/895978320095748107/1027154302634037249",
-        -- category = "other"
-    },
-    {
         name="Vedz",
         guid="Player-4476-0380C8CE",
         aliases={"Vedz","Xnd"}, --Likely reverted namechange
@@ -1348,27 +1283,6 @@ t.case_table = {
         },
         description = "Raidleader not honouring a prior loot agreement made before the raid",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1070785449997639873",
-        category = "raid"
-    },
-    {
-        players={
-
-            {
-                name= "Siaan",
-                guid= "Player-4476-03973CB6",
-            },
-            {
-                name= "Detacidda",
-                guid= "Player-4476-04D1CAC0",
-                aliases={"Addicated",},
-            },     
-            {
-                name= "Syroc",
-                guid= "Player-4476-038C52CD",
-            },       
-        },
-        description = "Ninja'd belt of 100 Deaths - Malicious raidleader unfairly kicking players on boss with their softreserves",
-        url = "https://discord.com/channels/611132910992490506/998986805477126324/1070870942110208001",
         category = "raid"
     },
     {
@@ -1761,42 +1675,6 @@ t.case_table = {
         players={
 
             {
-                name= "Wrs",
-                guid= "Player-4476-0401B611",
-            },
-            {
-                name= "Vrs",
-                guid= "Player-4476-02E12424",
-            },
-            {
-                name= "Vrss",
-                guid= "Player-4476-03A08030",
-            },
-            {
-                name= "Vrsy",
-                guid= "Player-4476-03AAE689",
-            },
-            {
-                name= "Vrsx",
-                guid= "Player-4476-03AA0E33",
-            },
-            {
-                name= "Wrsx",
-                guid= "Player-4476-045E1DB1",
-            },
-            {
-                name= "Vrsdk",
-                guid= "Player-4476-04CBE05A",
-            },
-        },
-        description = "GDKP host AFKing his own runs, unfairly kicking and deducting players when called out about it, resulting in a wasted lockout for those players",
-        url = "https://discord.com/channels/611132910992490506/998986805477126324/1077966279522144367",
-        category = "raid"
-    },
-    {
-        players={
-
-            {
                 name= "Maximusx",
                 guid= "Player-4476-0392060D",
             },
@@ -2104,17 +1982,6 @@ t.case_table = {
     {
         players={
             {
-                name= "Zuxilon",
-                guid= "Player-4476-03BA211F",
-            },
-        },
-        description = "Ninja'd Deadly Gladiator's Dreadplate Chestpiece in VoA.",
-        url = "https://discord.com/channels/611132910992490506/998986805477126324/1090353173601992794",
-        category = "raid",
-    },
-    {
-        players={
-            {
                 name= "Carbohydrate",
                 guid= "Player-4476-043E5618",
             },
@@ -2360,49 +2227,6 @@ t.case_table = {
     {
         players={
             {
-                name= "Qwrrpth",
-                guid= "Player-4476-04D31490",
-            },
-            {
-                name= "Qwrpth",
-                guid= "Player-4476-043D825B",
-            },
-            {
-                name= "Qwpth",
-                guid= "Player-4476-043D72AB",
-            },
-            {
-                name= "Qwipth",
-                guid= "Player-4476-043D7A30",
-            },
-            {
-                name= "Qrepth",
-                guid= "Player-4476-043D7AA2",
-            },
-            {
-                name= "Qwepth",
-                guid= "Player-4476-043D8CA3",
-            },
-            {
-                name= "Qwopth",
-                guid= "Player-4476-0471BFDB",
-            },
-            {
-                name= "Qwupth",
-                guid= "Player-4476-043D8C31",
-            },
-            {
-                name= "Qwypth",
-                guid= "Player-4476-043D8C31",
-            },
-        },
-        description = "GDKP host removed a players full cut, without justification. Subsequently tried to avoid blacklist by multiple times misrepresenting the case and lying about the reasoning for deducting the cut. ",
-        url = "https://discord.com/channels/611132910992490506/998986805477126324/1097490518121906217",
-        category = "gdkp",
-    },
-    {
-        players={
-            {
                 name= "Dekingz",
                 guid= "Player-4476-03DDF5B2",
             },
@@ -2546,7 +2370,7 @@ t.case_table = {
                 guid= "Player-4476-04E3365C",
             },
         },
-        description = "Didnt pay out peoples full cut in an 80% equal split GDKP, pocketing an extra 6k+ gold.",
+        description = "Didnt pay out peoples full cut in an 80% equal split GDKP",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1102730805362561094",
         category = "gdkp",
     },
