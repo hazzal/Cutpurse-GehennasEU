@@ -2529,6 +2529,17 @@ t.case_table = {
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1119742969491230731",
         category = "raid",
     },
+    {
+        players={
+            {
+                name= "Cyclonestorm",
+                guid= "Player-4476-04CC3FDC",
+            },
+        },
+        description = "Ninja'd whole Trial of the Crusader pot",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1123219742858170378",
+        category = "gdkp",
+    },
     --[[ TEMPLATE COPY IT AND PASTE IT ABOVE THIS TEMPLATE FOR EASIER FORMATTING
     --COPY BELOW
     {
