@@ -2540,6 +2540,29 @@ t.case_table = {
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1123219742858170378",
         category = "gdkp",
     },
+    {
+        players={
+            {
+                name= "Fakerxzx",
+                guid= "Player-4476-046A19B1",
+            },
+            {
+                name= "Highberry",
+                guid= "Player-4476-02F9727C",
+            },
+            {
+                name= "Fadedberry",
+                guid= "Player-4476-045B9A99",
+            },
+            {
+                name= "Stonedberry",
+                guid= "Player-4476-031D5118",
+            },
+        },
+        description = "Intentionally griefing Ulduar raids by joining raids, immmediately talking to Ulduar Keepers, and leaving raid",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1117981987689476207",
+        category = "gdkp",
+    },
     --[[ TEMPLATE COPY IT AND PASTE IT ABOVE THIS TEMPLATE FOR EASIER FORMATTING
     --COPY BELOW
     {
