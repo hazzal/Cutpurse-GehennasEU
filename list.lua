@@ -2558,6 +2558,10 @@ t.case_table = {
                 name= "Stonedberry",
                 guid= "Player-4476-031D5118",
             },
+            {
+                name= "Dopedberry",
+                guid= "Player-4476-04C3560D",
+            },
         },
         description = "Intentionally griefing Ulduar raids by joining raids, immmediately talking to Ulduar Keepers, and leaving raid",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1117981987689476207",
