@@ -2567,6 +2567,17 @@ t.case_table = {
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1117981987689476207",
         category = "gdkp",
     },
+    {
+        players={
+            {
+                name= "Firemagic",
+                guid= "Player-4476-0437F903",
+            },
+        },
+        description = "Stole 75k in Tier 7 World Tour. Also known as Magicmashrom",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1069287020234547231",
+        category = "gdkp",
+    },
     --[[ TEMPLATE COPY IT AND PASTE IT ABOVE THIS TEMPLATE FOR EASIER FORMATTING
     --COPY BELOW
     {
