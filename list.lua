@@ -1531,8 +1531,9 @@ t.case_table = {
         players={
 
             {
-                name= "Spanie",
+                name= "Tankwarr",
                 guid= "Player-4476-03D911C6",
+                aliases={"Spanie",},
             },
         },
         description = "Ninja looted Wall of Terror in Naxxramas",
@@ -2521,8 +2522,9 @@ t.case_table = {
     {
         players={
             {
-                name= "Umpro",
+                name= "Panicatack",
                 guid= "Player-4476-03757B12",
+                aliases={"Umpro",},
             },
         },
         description = "Multiple offenses of leaving runs when their SR didn't drop and ninjaed Arcanite Reaper",
@@ -2576,6 +2578,44 @@ t.case_table = {
         },
         description = "Stole 75k in Tier 7 World Tour. Also known as Magicmashrom",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1069287020234547231",
+        category = "gdkp",
+    },
+    {
+        players={
+            {
+                name= "Riplaren",
+                guid= "Player-4476-04F7B17C",
+            },
+            {
+                name= "Dómínión",
+                guid= "Player-4476-049F259D",
+            },
+        },
+        description = "Ninjaed all the loot from VoA run.",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1124317044565880844",
+        category = "raid",
+    },
+    {
+        players={
+            {
+                name= "Silverear",
+                guid= "Player-4476-04D19EA9",
+                aliases={"Brrina",},
+            },
+        },
+        description = "Raidleader which incorrectly gave a softreserved item to another player",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1124320005660610701",
+        category = "raid",
+    },
+    {
+        players={
+            {
+                name= "Lilioo",
+                guid= "Player-4476-044677E2",
+            },
+        },
+        description = "Raidleader stole entire pot and logged off",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1124321363470065845",
         category = "gdkp",
     },
     --[[ TEMPLATE COPY IT AND PASTE IT ABOVE THIS TEMPLATE FOR EASIER FORMATTING
