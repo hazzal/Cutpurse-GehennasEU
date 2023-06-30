@@ -1,4 +1,4 @@
-## Interface: 30401
+## Interface: 30402
 ## Title: Scambuster-Gehennas
 ## Notes: Scambuster list of scammers curated by the Gehennas discord
 ## Author: Hazal
