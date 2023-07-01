@@ -1154,8 +1154,9 @@ t.case_table = {
         category = "raid"
     },
     {
-        name="Lovermann",
+        name="Paradiseone",
         guid="Player-4476-04C0E78E",
+        alises={"Lovermann",},
         description="GDKP gold pot scammer. Stole 75k+ in tier-7 World Tour - Incorrectly awarding loot to another player",
         url="https://discord.com/channels/611132910992490506/998986805477126324/1063986219710681149",
         category = "gdkp"
