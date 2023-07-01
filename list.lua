@@ -2618,6 +2618,21 @@ t.case_table = {
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1124321363470065845",
         category = "gdkp",
     },
+    {
+        players={
+            {
+                name= "Devilîsh",
+                guid= "Player-4476-04DCB5E7",
+            },
+            {
+                name= "Devilísh",
+                guid= "Player-4476-04ECA93D",
+            },
+        },
+        description = "Stole an entire pot in GDKP",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1124797723447664650",
+        category = "gdkp",
+    },
     --[[ TEMPLATE COPY IT AND PASTE IT ABOVE THIS TEMPLATE FOR EASIER FORMATTING
     --COPY BELOW
     {
