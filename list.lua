@@ -2629,6 +2629,10 @@ t.case_table = {
                 name= "Devilísh",
                 guid= "Player-4476-04ECA93D",
             },
+            {
+                name= "Sebastían",
+                guid= "Player-4476-04BB3B7B",
+            },
         },
         description = "Stole an entire pot in GDKP",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1124797723447664650",
