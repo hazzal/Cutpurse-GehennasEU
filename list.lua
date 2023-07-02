@@ -1107,7 +1107,7 @@ t.case_table = {
             {
                 name= "Hameright",
                 guid="Player-4476-04A8FA07",
-                alises={"Bradermae",},
+                aliases={"Bradermae",},
             },
             {
                 name= "Cicibaan",
@@ -1156,7 +1156,7 @@ t.case_table = {
     {
         name="Paradiseone",
         guid="Player-4476-04C0E78E",
-        alises={"Lovermann",},
+        aliases={"Lovermann",},
         description="GDKP gold pot scammer. Stole 75k+ in tier-7 World Tour - Incorrectly awarding loot to another player",
         url="https://discord.com/channels/611132910992490506/998986805477126324/1063986219710681149",
         category = "gdkp"
@@ -2632,6 +2632,39 @@ t.case_table = {
         },
         description = "Stole an entire pot in GDKP",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1124797723447664650",
+        category = "gdkp",
+    },
+    {
+        players={
+            {
+                name= "Amyntas",
+                guid= "Player-4476-0438575F",
+            },
+        },
+        description = "Hosting GDKP and running away with the pot",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1121750366648807514",
+        category = "gdkp",
+    },
+    {
+        players={
+            {
+                name= "Calais",
+                guid= "Player-4476-03B49FEC",
+            },
+        },
+        description = "Ninjaing all items on Onyxia",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1123918660097015881",
+        category = "raid",
+    },
+    {
+        players={
+            {
+                name= "Unable",
+                guid= "Player-4476-043E980E",
+            },
+        },
+        description = "Ninjaing a full ToC pot",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1123931615807144007",
         category = "gdkp",
     },
     --[[ TEMPLATE COPY IT AND PASTE IT ABOVE THIS TEMPLATE FOR EASIER FORMATTING
