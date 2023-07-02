@@ -2523,9 +2523,9 @@ t.case_table = {
     {
         players={
             {
-                name= "Panicatack",
+                name= "Umpro",
                 guid= "Player-4476-03757B12",
-                aliases={"Umpro",},
+                aliases={"Umpro","Panicatack"},
             },
         },
         description = "Multiple offenses of leaving runs when their SR didn't drop and ninjaed Arcanite Reaper",
