@@ -2649,7 +2649,7 @@ t.case_table = {
         players={
             {
                 name= "Calais",
-                guid= "Player-4476-03B49FEC",
+                guid= "Player-4476-03813FE9",
             },
         },
         description = "Ninjaing all items on Onyxia",
