@@ -2682,6 +2682,17 @@ t.case_table = {
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1125180745170829483",
         category = "gdkp",
     },
+    {
+        players={
+            {
+                name= "Exclusively",
+                guid= "Player-4476-0384AEDE",
+            },
+        },
+        description = "Ninjaing a full ToC pot",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1125421154727899148",
+        category = "gdkp",
+    },
     --[[ TEMPLATE COPY IT AND PASTE IT ABOVE THIS TEMPLATE FOR EASIER FORMATTING
     --COPY BELOW
     {
