@@ -1083,10 +1083,10 @@ t.case_table = {
                 name= "Rgretnothing",
                 guid="Player-4476-048FF6A3",
             },
-            {
-                name= "Everblight",
+            {--Everblight [Player-4476-04D16C4D] has renamed to: Cicidalabu
+                name= "Cicidalabu",
                 guid="Player-4476-04D16C4D",
-                aliases={"Ciciblaster",},
+                aliases={"Ciciblaster","Everblight"},
             },
             {
                 name= "Cicibangldsh",
