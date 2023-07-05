@@ -2663,8 +2663,9 @@ t.case_table = {
     {
         players={
             {
-                name= "Unable",
+                name= "Peoto",
                 guid= "Player-4476-043E980E",
+                aliases={"Unable",},
             },
         },
         description = "Ninjaing a full ToC pot",
@@ -2691,6 +2692,17 @@ t.case_table = {
         },
         description = "Ninjaing a full ToC pot",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1125421154727899148",
+        category = "gdkp",
+    },
+    {
+        players={
+            {
+                name= "Compagno",
+                guid= "Player-4476-049EA468",
+            },
+        },
+        description = "Ninjaing a full ToC pot",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1125703910171086911",
         category = "gdkp",
     },
     --[[ TEMPLATE COPY IT AND PASTE IT ABOVE THIS TEMPLATE FOR EASIER FORMATTING
