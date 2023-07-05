@@ -2705,6 +2705,17 @@ t.case_table = {
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1125703910171086911",
         category = "gdkp",
     },
+    {
+        players={
+            {
+                name= "Thunðerherø",
+                guid= "Player-4476-04D5430D",
+            },
+        },
+        description = "Griefing 50/50 runs by joining as healer and leaving during encounter",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1126230204403171348",
+        category = "raid",
+    },
     --[[ TEMPLATE COPY IT AND PASTE IT ABOVE THIS TEMPLATE FOR EASIER FORMATTING
     --COPY BELOW
     {
