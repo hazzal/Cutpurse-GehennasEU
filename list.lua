@@ -2781,6 +2781,58 @@ t.case_table = {
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1127000125198315520",
         category = "raid",
     },
+    {
+        players={
+            {
+                name= "Qtbelf",
+                guid= "Player-4476-04ED8C60",
+                --aliases={"",}, --remove comments for use
+            },
+            {
+                name= "Parsedin",
+                guid= "Player-4476-04E313CA",
+                --aliases={"",}, --remove comments for use
+            },
+            {
+                name= "Parsepriest",
+                guid= "Player-4476-04E313DF",
+                --aliases={"",}, --remove comments for use
+            },
+            {
+                name= "Parsehunt",
+                guid= "Player-4476-04E31401",
+                --aliases={"",}, --remove comments for use
+            },
+            {
+                name= "Parsecow",
+                guid= "Player-4476-04E4CDC3",
+                --aliases={"",}, --remove comments for use
+            },
+            {
+                name= "Parsedingo",
+                guid= "Player-4476-04F2C036",
+                --aliases={"",}, --remove comments for use
+            },
+            {
+                name= "Zarlaniw",
+                guid= "Player-4476-04E2FFD2",
+                --aliases={"",}, --remove comments for use
+            },
+            {
+                name= "Zarlanidisc",
+                guid= "Player-4476-04E3015C",
+                --aliases={"",}, --remove comments for use
+            },
+            {
+                name= "Zarlanamage",
+                guid= "Player-4476-04E490D9",
+                --aliases={"",}, --remove comments for use
+            },
+        },
+        description = "Denying players their SR just for having the wrong name in Softres.it, even tho they knew beforehand the player had the item SR'ed.",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1127207434931421204",
+        category = "raid",
+    },
     --[[ TEMPLATE COPY IT AND PASTE IT ABOVE THIS TEMPLATE FOR EASIER FORMATTING
     --COPY BELOW
     {
