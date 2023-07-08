@@ -2587,10 +2587,6 @@ t.case_table = {
                 name= "Riplaren",
                 guid= "Player-4476-04F7B17C",
             },
-            {
-                name= "Dómínión",
-                guid= "Player-4476-049F259D",
-            },
         },
         description = "Ninjaed all the loot from VoA run.",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1124317044565880844",
