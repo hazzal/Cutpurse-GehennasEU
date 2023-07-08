@@ -2833,6 +2833,18 @@ t.case_table = {
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1127207434931421204",
         category = "raid",
     },
+    {
+        players={
+            {
+                name= "Entersandman",
+                guid= "Player-4476-04D0A20B",
+                --aliases={"",}, --remove comments for use
+            },
+        },
+        description = "Griefing raids by creating fake Scambuster announcements",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1127299827923951827",
+        category = "raid",
+    },
     --[[ TEMPLATE COPY IT AND PASTE IT ABOVE THIS TEMPLATE FOR EASIER FORMATTING
     --COPY BELOW
     {
