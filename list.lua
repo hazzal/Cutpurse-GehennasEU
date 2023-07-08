@@ -2644,7 +2644,7 @@ t.case_table = {
                 aliases={"Sebastían",},
             },
         },
-        description = "Griefing raids by creating fake Scambuster announcements",
+        description = "Scamming full toc pot. And griefing raids by creating fake Scambuster announcements",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1127140272967536690",
     },
     {
