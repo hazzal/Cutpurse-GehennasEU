@@ -2622,21 +2622,42 @@ t.case_table = {
     {
         players={
             {
-                name= "Devilîsh",
+                name= "Leopardxv",
                 guid= "Player-4476-04DCB5E7",
+                aliases={"Devilîsh",},
             },
             {
                 name= "Devilísh",
                 guid= "Player-4476-04ECA93D",
             },
-            {
-                name= "Sebastían",
-                guid= "Player-4476-04BB3B7B",
-            },
         },
         description = "Stole an entire pot in GDKP",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1124797723447664650",
         category = "gdkp",
+    },
+    {
+        players={
+            --believed to be Devilîsh alt
+            {
+                name= "Wìlhelm",
+                guid= "Player-4476-04BB3B7B",
+                aliases={"Sebastían",},
+            },
+        },
+        description = "Griefing raids by creating fake Scambuster announcements",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1127140272967536690",
+    },
+    {
+        players={
+            --believed to be Devilîsh alt
+            {
+                name= "Mìchaelscott",
+                guid= "Player-4476-04FD40EF",
+                aliases={"",},
+            },
+        },
+        description = "Griefing raids by creating fake Scambuster announcements",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1127139835736490065",
     },
     {
         players={
@@ -2723,6 +2744,7 @@ t.case_table = {
             {
                 name= "NAME",
                 guid= "GUID",
+                --aliases={"",}, --remove comments for use
             },
         },
         description = "SHORT REASON",
