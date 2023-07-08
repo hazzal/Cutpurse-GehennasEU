@@ -2737,6 +2737,54 @@ t.case_table = {
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1126230204403171348",
         category = "raid",
     },
+    {
+        players={
+            {
+                name= "Variian",
+                guid= "Player-4476-03CE742E",
+                --aliases={"",}, --remove comments for use
+            },
+        },
+        description = "Letting items time out in bags so he can 'accidentally' ninja them",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1126904514000195715",
+        category = "raid",
+    },
+    {
+        players={
+            {
+                name= "Algoroth",
+                guid= "Player-4476-04F8CB70",
+                --aliases={"",}, --remove comments for use
+            },
+        },
+        description = "Multiple cases of stealing crafting materials",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1126907007551668306",
+        category= "trade",
+    },
+    {
+        players={
+            {
+                name= "Perfact",
+                guid= "Player-4476-0430BC93",
+                --aliases={"",}, --remove comments for use
+            },
+        },
+        description = "Ninja'd whole GDKP pot in Trial of Crusader",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1126909020196831243",
+        category = "gdkp",
+    },
+    {
+        players={
+            {
+                name= "Paînkillers",
+                guid= "Player-4476-039952C6",
+                --aliases={"",}, --remove comments for use
+            },
+        },
+        description = "Swapping SRs after the item dropped",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1127000125198315520",
+        category = "raid",
+    },
     --[[ TEMPLATE COPY IT AND PASTE IT ABOVE THIS TEMPLATE FOR EASIER FORMATTING
     --COPY BELOW
     {
