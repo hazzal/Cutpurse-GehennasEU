@@ -2587,6 +2587,10 @@ t.case_table = {
                 name= "Riplaren",
                 guid= "Player-4476-04F7B17C",
             },
+            {
+                name= "Dómínión",
+                guid= "Player-4476-049F259D",
+            },
         },
         description = "Ninjaed all the loot from VoA run.",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1124317044565880844",
@@ -2618,42 +2622,21 @@ t.case_table = {
     {
         players={
             {
-                name= "Leopardxv",
+                name= "Devilîsh",
                 guid= "Player-4476-04DCB5E7",
-                aliases={"Devilîsh",},
             },
             {
                 name= "Devilísh",
                 guid= "Player-4476-04ECA93D",
             },
+            {
+                name= "Sebastían",
+                guid= "Player-4476-04BB3B7B",
+            },
         },
         description = "Stole an entire pot in GDKP",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1124797723447664650",
         category = "gdkp",
-    },
-    {
-        players={
-            --believed to be Devilîsh alt
-            {
-                name= "Wìlhelm",
-                guid= "Player-4476-04BB3B7B",
-                aliases={"Sebastían",},
-            },
-        },
-        description = "Scamming full toc pot. And griefing raids by creating fake Scambuster announcements",
-        url = "https://discord.com/channels/611132910992490506/998986805477126324/1127140272967536690",
-    },
-    {
-        players={
-            --believed to be Devilîsh alt
-            {
-                name= "Mìchaelscott",
-                guid= "Player-4476-04FD40EF",
-                aliases={"",},
-            },
-        },
-        description = "Griefing raids by creating fake Scambuster announcements",
-        url = "https://discord.com/channels/611132910992490506/998986805477126324/1127139835736490065",
     },
     {
         players={
@@ -2737,8 +2720,7 @@ t.case_table = {
         players={
             {
                 name= "Variian",
-                guid= "Player-4476-03CE742E",
-                --aliases={"",}, --remove comments for use
+                guid= "Player-4476-03CE742",
             },
         },
         description = "Letting items time out in bags so he can 'accidentally' ninja them",
@@ -2750,19 +2732,17 @@ t.case_table = {
             {
                 name= "Algoroth",
                 guid= "Player-4476-04F8CB70",
-                --aliases={"",}, --remove comments for use
             },
         },
         description = "Multiple cases of stealing crafting materials",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1126907007551668306",
-        category= "trade",
+        category = "other",
     },
     {
         players={
             {
                 name= "Perfact",
                 guid= "Player-4476-0430BC93",
-                --aliases={"",}, --remove comments for use
             },
         },
         description = "Ninja'd whole GDKP pot in Trial of Crusader",
@@ -2772,78 +2752,13 @@ t.case_table = {
     {
         players={
             {
-                name= "Paînkillers",
-                guid= "Player-4476-039952C6",
-                --aliases={"",}, --remove comments for use
+                name= "Alterhirte",
+                guid= "Player-4476-04D3C39F",
             },
         },
-        description = "Swapping SRs after the item dropped",
-        url = "https://discord.com/channels/611132910992490506/998986805477126324/1127000125198315520",
-        category = "raid",
-    },
-    {
-        players={
-            {
-                name= "Qtbelf",
-                guid= "Player-4476-04ED8C60",
-                --aliases={"",}, --remove comments for use
-            },
-            {
-                name= "Parsedin",
-                guid= "Player-4476-04E313CA",
-                --aliases={"",}, --remove comments for use
-            },
-            {
-                name= "Parsepriest",
-                guid= "Player-4476-04E313DF",
-                --aliases={"",}, --remove comments for use
-            },
-            {
-                name= "Parsehunt",
-                guid= "Player-4476-04E31401",
-                --aliases={"",}, --remove comments for use
-            },
-            {
-                name= "Parsecow",
-                guid= "Player-4476-04E4CDC3",
-                --aliases={"",}, --remove comments for use
-            },
-            {
-                name= "Parsedingo",
-                guid= "Player-4476-04F2C036",
-                --aliases={"",}, --remove comments for use
-            },
-            {
-                name= "Zarlaniw",
-                guid= "Player-4476-04E2FFD2",
-                --aliases={"",}, --remove comments for use
-            },
-            {
-                name= "Zarlanidisc",
-                guid= "Player-4476-04E3015C",
-                --aliases={"",}, --remove comments for use
-            },
-            {
-                name= "Zarlanamage",
-                guid= "Player-4476-04E490D9",
-                --aliases={"",}, --remove comments for use
-            },
-        },
-        description = "Denying players their SR just for having the wrong name in Softres.it, even tho they knew beforehand the player had the item SR'ed.",
-        url = "https://discord.com/channels/611132910992490506/998986805477126324/1127207434931421204",
-        category = "raid",
-    },
-    {
-        players={
-            {
-                name= "Entersandman",
-                guid= "Player-4476-04D0A20B",
-                --aliases={"",}, --remove comments for use
-            },
-        },
-        description = "Griefing raids by creating fake Scambuster announcements",
-        url = "https://discord.com/channels/611132910992490506/998986805477126324/1127299827923951827",
-        category = "raid",
+        description = "Ninja'd whole GDKP pot in Trial of Crusader",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1128050190310453279",
+        category = "gdkp",
     },
     --[[ TEMPLATE COPY IT AND PASTE IT ABOVE THIS TEMPLATE FOR EASIER FORMATTING
     --COPY BELOW
@@ -2852,7 +2767,6 @@ t.case_table = {
             {
                 name= "NAME",
                 guid= "GUID",
-                --aliases={"",}, --remove comments for use
             },
         },
         description = "SHORT REASON",
