@@ -2760,6 +2760,93 @@ t.case_table = {
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1128050190310453279",
         category = "gdkp",
     },
+    {
+        players={
+            {
+                name= "Painkillers",
+                guid= "Player-4476-039952C6",
+            },
+        },
+        description = "Swapping SRs after the item dropped",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1127000125198315520",
+        category = "raid",
+    },
+    {
+        players={
+            {
+                name= "Mìchaelscott",
+                guid= "Player-4476-04FD40EF",
+            },
+        },
+        description = "Griefing raids by creating fake Scambuster announcements",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1127139835736490065",
+        category = "other",
+    },
+    {
+        players={
+            {
+                name= "Qtbelf",
+                guid= "Player-4476-04ED8C60",
+            },
+            {
+                name= "Parsedin",
+                guid= "Player-4476-04E313CA",
+            },
+            {
+                name= "Parsepriest",
+                guid= "Player-4476-04E313DF",
+            },
+            {
+                name= "Parsehunt",
+                guid= "Player-4476-04E31401",
+            },
+            {
+                name= "Parsecow",
+                guid= "Player-4476-04E4CDC3",
+            },
+            {
+                name= "Parsedingo",
+                guid= "Player-4476-04F2C036",
+            },
+            {
+                name= "Zarlaniw",
+                guid= "Player-4476-04E2FFD2F",
+            },
+            {
+                name= "Zarlanidisc",
+                guid= "Player-4476-04E3015C",
+            },
+            {
+                name= "Zarlanamage",
+                guid= "Player-4476-04E490D9",
+            },
+        },
+        description = "Denying players their SR just for having the wrong name in Softres.it, even tho they knew beforehand the player had the item SR'ed.",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1127207434931421204",
+        category = "other",
+    },
+    {
+        players={
+            {
+                name= "Entersandman",
+                guid= "Player-4476-04D0A20B",
+            },
+        },
+        description = "Griefing raids by creating fake Scambuster announcements",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1127299827923951827",
+        category = "other",
+    },
+    {
+        players={
+            {
+                name= "Eljema",
+                guid= "Player-4476-042F40B3",
+            },
+        },
+        description = "Ninjaing a full ToC pots",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1127669341240954971",
+        category = "gdkp",
+    },
     --[[ TEMPLATE COPY IT AND PASTE IT ABOVE THIS TEMPLATE FOR EASIER FORMATTING
     --COPY BELOW
     {
