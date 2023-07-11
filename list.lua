@@ -2655,6 +2655,10 @@ t.case_table = {
                 name= "Calais",
                 guid= "Player-4476-03813FE9",
             },
+            {
+                name= "Reims",
+                guid= "Player-4476-0384CE0A",
+            },
         },
         description = "Ninjaing all items on Onyxia",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1123918660097015881",
