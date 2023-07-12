@@ -2888,6 +2888,25 @@ t.case_table = {
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1128648305484771428",
         category = "gdkp",
     },
+    {
+        players={
+            {
+                name= "Borzx",
+                guid= "Player-4476-04FDB154",
+            },
+            {
+                name= "Vannquish",
+                guid= "Player-4476-04DCE746",
+            },
+            {
+                name= "Atomblast",
+                guid= "Player-4476-04D8D70D",
+            },
+        },
+        description = "Ninja'd whole GDKP pot in Trial of the Crusader",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1128726961007632544",
+        category = "gdkp",
+    },
     --[[ TEMPLATE COPY IT AND PASTE IT ABOVE THIS TEMPLATE FOR EASIER FORMATTING
     --COPY BELOW
     {
