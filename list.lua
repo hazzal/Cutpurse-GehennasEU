@@ -2902,10 +2902,6 @@ t.case_table = {
                 name= "Atomblast",
                 guid= "Player-4476-04D8D70D",
             },
-            {
-                name= "Karuji",
-                guid= "Player-4476-043CEC2B",
-            },
         },
         description = "Ninja'd whole GDKP pot in Trial of the Crusader",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1128726961007632544",
