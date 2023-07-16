@@ -2902,6 +2902,26 @@ t.case_table = {
                 name= "Atomblast",
                 guid= "Player-4476-04D8D70D",
             },
+            {
+                name= "Yahmar",
+                guid= "Player-4476-04D71A59",
+            },
+            {
+                name= "Bigdoa",
+                guid= "Player-4476-04E1E311",
+            },
+            {
+                name= "Khabibz",
+                guid= "Player-4476-05046469",
+            },
+            {
+                name= "Borzr",
+                guid= "Player-4476-0503DFDD",
+            },
+            {
+                name= "Infernoxd",
+                guid= "Player-4476-04D99466",
+            },
         },
         description = "Ninja'd whole GDKP pot in Trial of the Crusader",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1128726961007632544",
@@ -2975,6 +2995,17 @@ t.case_table = {
         },
         description = "Ninja'd the whole pot in Trial of Crusader",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1130120457706807407",
+        category = "gdkp",
+    },
+    {
+        players={
+            {
+                name= "Zfox",
+                guid= "Player-4476-04E1445D",
+            },
+        },
+        description = "Ninja'd the whole pot in Trial of Crusader",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1130127571963613194",
         category = "gdkp",
     },
     --[[ TEMPLATE COPY IT AND PASTE IT ABOVE THIS TEMPLATE FOR EASIER FORMATTING
