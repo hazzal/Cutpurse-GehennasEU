@@ -2914,8 +2914,67 @@ t.case_table = {
                 guid= "Player-4476-04E884F6",
             },
         },
-        description = "Ninja'd the whole pot in Trial of Crusader normal",
+        description = "Ninja'd the whole pot in Trial of Crusader",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1128767932541968517",
+        category = "gdkp",
+    },
+    {
+        players={
+            {
+                name= "Pexino",
+                guid= "Player-4476-030D7490",
+            },
+        },
+        description = "Ninja'd the whole pot in Trial of Crusader",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1130115716146790420",
+        category = "gdkp",
+    },
+    {
+        players={
+            {
+                name= "Stiefvater",
+                guid= "Player-4476-043D7B0E",
+            },
+        },
+        description = "Ninja'd the whole pot in Trial of Crusader",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1130117453175853067",
+        category = "gdkp",
+    },
+    {
+        players={
+            {
+                name= "Predakore",
+                guid= "Player-4476-046B5B59",
+            },
+        },
+        description = "Ninja'd the whole pot in Trial of Crusader",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1130117453175853067",
+        category = "gdkp",
+    },
+    {
+        players={
+            {
+                name= "Yousucks",
+                guid= "Player-4476-04677A97",
+            },
+            {
+                name= "Predakore",
+                guid= "Player-4476-046B5B59",
+            },
+        },
+        description = "Ninja'd the whole pot in Trial of Crusader",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1130119283825971210",
+        category = "gdkp",
+    },
+    {
+        players={
+            {
+                name= "Cators",
+                guid= "Player-4476-04FD649A",
+            },
+        },
+        description = "Ninja'd the whole pot in Trial of Crusader",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1130120457706807407",
         category = "gdkp",
     },
     --[[ TEMPLATE COPY IT AND PASTE IT ABOVE THIS TEMPLATE FOR EASIER FORMATTING
