@@ -2974,21 +2974,6 @@ t.case_table = {
     {
         players={
             {
-                name= "Yousucks",
-                guid= "Player-4476-04677A97",
-            },
-            {
-                name= "Predakore",
-                guid= "Player-4476-046B5B59",
-            },
-        },
-        description = "Ninja'd the whole pot in Trial of Crusader",
-        url = "https://discord.com/channels/611132910992490506/998986805477126324/1130119283825971210",
-        category = "gdkp",
-    },
-    {
-        players={
-            {
                 name= "Cators",
                 guid= "Player-4476-04FD649A",
             },
