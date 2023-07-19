@@ -3008,6 +3008,17 @@ t.case_table = {
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1130586206997057626",
         category = "gdkp",
     },
+    {
+        players={
+            {
+                name= "Xdark",
+                guid= "Player-4476-02ECE13C",
+            },
+        },
+        description = "Ninja'd the whole pot in Trial of Crusader",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1130950838924357794",
+        category = "gdkp",
+    },
     --[[ TEMPLATE COPY IT AND PASTE IT ABOVE THIS TEMPLATE FOR EASIER FORMATTING
     --COPY BELOW
     {
