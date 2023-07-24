@@ -3127,7 +3127,7 @@ t.case_table = {
             },
         },
         description = "Scammed full pot in Trial of the Crusader",
-        url = "https://discord.com/channels/611132910992490506/998986805477126324/1133022236975042690",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1133024151309926430",
         category = "gdkp",
     },
     {
