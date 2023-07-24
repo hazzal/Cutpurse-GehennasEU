@@ -3130,6 +3130,17 @@ t.case_table = {
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1133022236975042690",
         category = "gdkp",
     },
+    {
+        players={
+            {
+                name= "Prôprockz",
+                guid= "Player-4476-0509CC34",
+            },
+        },
+        description = "Deathroll scams",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1133021098288631960",
+        category = "other",
+    },
     --[[ TEMPLATE COPY IT AND PASTE IT ABOVE THIS TEMPLATE FOR EASIER FORMATTING
     --COPY BELOW
     {
