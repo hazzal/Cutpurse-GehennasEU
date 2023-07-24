@@ -3019,6 +3019,117 @@ t.case_table = {
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1130950838924357794",
         category = "gdkp",
     },
+    {
+        players={
+            {
+                name= "Blacklashh",
+                guid= "Player-4476-0383E0D6",
+            },
+            {
+                name= "Sikimboy",
+                guid= "Player-4476-04546B35",
+            },
+            {
+                name= "Cumtodubai",
+                guid= "Player-4476-04B53C59",
+            },
+        },
+        description = "Ninja'd the whole pot in Trial of Crusader",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1131224741861150812",
+        category = "gdkp",
+    },
+    {
+        players={
+            {
+                name= "Sishlayd",
+                guid= "Player-4476-0437F456",
+            },
+        },
+        description = "Ninja'd the whole pot in Trial of Crusader",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1131224741861150812",
+        category = "gdkp",
+    },
+    {
+        players={
+            {
+                name= "Sishlayd",
+                guid= "Player-4476-0437F456",
+            },
+        },
+        description = "Scamming SR run making into gbid, rolling on SR'd items,leaving with items not sold",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1131259936714801262",
+        category = "raid",
+    },
+    {
+        players={
+            {
+                name= "Artemax",
+                guid= "Player-4476-0490BAD5",
+            },
+        },
+        description = "Taking items because other people had ''already won a lot",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1132282119067009075",
+        category = "raid",
+    },
+    {
+        players={
+            {
+                name= "Genesishunt",
+                guid= "Player-4476-04FE180B",
+            },
+        },
+        description = "Needed on all items as raid leader forgot to put on master loot, then proceeded to leave the raid instantly (even rolling on items unusable for class)",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1132293509223821322",
+        category = "raid",
+    },
+    {
+        players={
+            {
+                name= "Ztwistedz",
+                guid= "Player-4476-04FC23A1",
+            },
+        },
+        description = "Ninja'd Mage gloves in VoA despite being unusable to him",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1132326105521586337",
+        category = "raid",
+    },
+    {
+        players={
+            {
+                name= "Boorka",
+                guid= "Player-4476-04039659",
+            },
+        },
+        description = "Ninja'd full pot in Trial of the Crusader",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1132593778834821150",
+        category = "raid",
+    },
+    {
+        players={
+            {
+                name= "Bundê",
+                guid= "Player-4476-03E9A603",
+            },
+        },
+        description = "Ninja'd offspec tier item in VoA in a spec run",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1133018794546180186",
+        category = "raid",
+    },
+    {
+        players={
+            {
+                name= "Melher",
+                guid= "Player-4476-045E989F",
+            },
+            {
+                name= "Drprst",
+                guid= "Player-4476-04DD7413",
+            },
+        },
+        description = "Scammed full pot in Trial of the Crusader",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1133022236975042690",
+        category = "gdkp",
+    },
     --[[ TEMPLATE COPY IT AND PASTE IT ABOVE THIS TEMPLATE FOR EASIER FORMATTING
     --COPY BELOW
     {
