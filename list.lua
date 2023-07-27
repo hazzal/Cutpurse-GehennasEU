@@ -3206,6 +3206,17 @@ t.case_table = {
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1133021098288631960",
         category = "other",
     },
+    {
+        players={
+            {
+                name= "Dashuria",
+                guid= "Player-4476-044BEE56",
+            },
+        },
+        description = "Ninja'd items and trying to sell them after the raid",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1133502411823128597",
+        category = "raid",
+    },
     --[[ TEMPLATE COPY IT AND PASTE IT ABOVE THIS TEMPLATE FOR EASIER FORMATTING
     --COPY BELOW
     {
