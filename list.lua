@@ -2565,8 +2565,88 @@ t.case_table = {
                 name= "Dopedberry",
                 guid= "Player-4476-04C3560D",
             },
+            {
+                name= "Pogogodx",
+                guid= "Player-4476-045E678A",
+            },
+            {
+                name= "Zyzzpala",
+                guid= "Player-4476-03E8EFAC",
+            },
+            {
+                name= "Zyzzpalax",
+                guid= "Player-4476-04F73DA1",
+            },
+            {
+                name= "Zyzzbandit",
+                guid= "Player-4476-04EDF891",
+            },
+            {
+                name= "Zyzzpalatwo",
+                guid= "Player-4476-03DE4F40",
+            },
+            {
+                name= "Zyzzpalafive",
+                guid= "Player-4476-04C268AB",
+            },
+            {
+                name= "Zyzzpalasix",
+                guid= "Player-4476-04C25D99",
+            },
+            {
+                name= "Swipeenjoyer",
+                guid= "Player-4476-04FBAF35",
+            },
+            {
+                name= "Ownednerds",
+                guid= "Player-4476-024F1BFA",
+            },
+            {
+                name= "Donothingx",
+                guid= "Player-4476-03BA2CBC",
+            },
+            {
+                name= "Maragodx",
+                guid= "Player-4476-03B396D6",
+            },
+            {
+                name= "Jasonborn",
+                guid= "Player-4476-01E9D3BE",
+            },
+            {
+                name= "Tricksyou",
+                guid= "Player-4476-045B36BC",
+            },
+            {
+                name= "Shredxd",
+                guid= "Player-4476-045B36BC",
+            },
+            {
+                name= "Swipexd",
+                guid= "Player-4476-04F60AA5",
+            },
+            {
+                name= "Feralcope",
+                guid= "Player-4476-04F60A99",
+            },
+            {
+                name= "Wtbwf",
+                guid= "Player-4476-043C9880",
+            },
+            {
+                name= "Wtbtricks",
+                guid= "Player-4476-046B8B88",
+            },
+            {
+                name= "Morecope",
+                guid= "Player-4476-04AD620D",
+            },
+            {
+                name= "Castercope",
+                guid= "Player-4476-044208F9",
+            },
         },
-        description = "Intentionally griefing Ulduar raids by joining raids, immmediately talking to Ulduar Keepers, and leaving raid",
+        description = "Joining raids with the sole intention of griefing (talking to Keepers, racist slurs while hosts are streaming to get them banned, fake bloodlust call soundboards)",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1117981987689476207",
         category = "gdkp",
     },
