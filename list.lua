@@ -773,9 +773,9 @@ t.case_table = {
         category = "raid"
     },
     {
-        name= "Hugtime",
+        name= "Dksx",
         guid="Player-4476-4CFCFC0",
-        aliases= {"Dboyx"},
+        aliases= {"Dboyx","Hugtime"},
         description = "Ninja looted multiple items in Naxxramas 10",
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1056976618251362445",
         category = "raid"
@@ -863,8 +863,9 @@ t.case_table = {
         category = "gdkp"
     },
     {
-        name= "Dneef",
+        name= "Furmage",
         guid="Player-4476-039CA9A7",
+        aliases={"Dneef"},
         description = "GDKP host giving items to friends for free under the table - Ninja looted Sapphiron key in Naxxramas 25",
 		url = "https://discord.com/channels/611132910992490506/998986805477126324/1034880403074453504",
         category = "gdkp"
@@ -2263,8 +2264,9 @@ t.case_table = {
                 guid= "Player-4476-031AC5DD",
             },
             {
-                name= "Sindibad",
+                name= "Salipow",
                 guid= "Player-4476-03368050",
+                aliases={"Sindibad"},
             },
             {
                 name= "Voidart",
@@ -2653,8 +2655,9 @@ t.case_table = {
     {
         players={
             {
-                name= "Firemagic",
+                name= "Efbartender",
                 guid= "Player-4476-0437F903",
+                aliases= {"Firemagic",},
             },
         },
         description = "Stole 75k in Tier 7 World Tour. Also known as Magicmashrom",
@@ -2679,9 +2682,9 @@ t.case_table = {
     {
         players={
             {
-                name= "Silverear",
+                name= "Ælenar",
                 guid= "Player-4476-04D19EA9",
-                aliases={"Brrina",},
+                aliases={"Brrina","Silverear"},
             },
         },
         description = "Raidleader which incorrectly gave a softreserved item to another player",
@@ -2702,16 +2705,18 @@ t.case_table = {
     {
         players={
             {
-                name= "Devilîsh",
+                name= "Leopardxv",
                 guid= "Player-4476-04DCB5E7",
+                aliases={"Devilîsh",},
             },
             {
                 name= "Devilísh",
                 guid= "Player-4476-04ECA93D",
             },
             {
-                name= "Sebastían",
+                name= "Wìlhelm",
                 guid= "Player-4476-04BB3B7B",
+                aliases={"Sebastían",},
             },
         },
         description = "Stole an entire pot in GDKP",
@@ -2732,9 +2737,9 @@ t.case_table = {
     {
         players={
             {
-                name= "Peoto",
+                name= "Balotteli",
                 guid= "Player-4476-043E980E",
-                aliases={"Unable",},
+                aliases={"Unable","Peoto"},
             },
         },
         description = "Ninjaing a full ToC pot",
@@ -2789,7 +2794,7 @@ t.case_table = {
         players={
             {
                 name= "Variian",
-                guid= "Player-4476-03CE742",
+                guid= "Player-4476-03CE742E",
             },
         },
         description = "Letting items time out in bags so he can 'accidentally' ninja them",
@@ -2832,8 +2837,9 @@ t.case_table = {
     {
         players={
             {
-                name= "Painkillers",
+                name= "Painkillerss",
                 guid= "Player-4476-039952C6",
+                aliases={"Painkillers"}
             },
         },
         description = "Swapping SRs after the item dropped",
@@ -2879,7 +2885,7 @@ t.case_table = {
             },
             {
                 name= "Zarlaniw",
-                guid= "Player-4476-04E2FFD2F",
+                guid= "Player-4476-04E2FFD2",
             },
             {
                 name= "Zarlanidisc",
@@ -2919,7 +2925,7 @@ t.case_table = {
     {
         players={
             {
-                name= "Allimine",
+                name= "Allmine",
                 guid= "Player-4476-04651B44",
             },
         },
@@ -2930,8 +2936,9 @@ t.case_table = {
         {
         players={
             {
-                name= "Joefat",
+                name= "Kovela",
                 guid= "Player-4476-04FD649A",
+                aliases={"Joefat",},
             },
         },
         description = "Ninja'd whole GDKP pot in Trial of Crusader",
