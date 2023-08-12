@@ -196,8 +196,9 @@ t.case_table = {
     {   
         players={
             {
-                name= "Phadthai",
+                name= "Lambvindaloo",
                 guid="Player-4476-02A73E2A",
+                aliases={"Phadthai"},
             },
             {
                 name= "Liyah",
@@ -1606,8 +1607,9 @@ t.case_table = {
                 guid= "Player-4476-017EF1AB",
             },
             {
-                name= "Putackk",
+                name= "Aoenova",
                 guid= "Player-4476-03C0C39D",
+                aliases= {"Putackk",},
             },
             {
                 name= "Paladininjas",
@@ -2551,7 +2553,7 @@ t.case_table = {
                 name= "Fakerxzx",
                 guid= "Player-4476-046A19B1",
             },
-            {
+            --[[{
                 name= "Highberry",
                 guid= "Player-4476-02F9727C",
             },
@@ -2646,9 +2648,11 @@ t.case_table = {
             {
                 name= "Castercope",
                 guid= "Player-4476-044208F9",
-            },
+            }, --]] --Need more proof for these. 
         },
-        description = "Joining raids with the sole intention of griefing (talking to Keepers, racist slurs while hosts are streaming to get them banned, fake bloodlust call soundboards)",
+        description = "Intentionally griefing Ulduar raids by joining raids, immmediately talking to Ulduar Keepers, and leaving raid",
+        --old description: description = "Joining raids with the sole intention of griefing (talking to Keepers, racist slurs while hosts are streaming to get them banned, fake bloodlust call soundboards)",
+        --see https://github.com/hazzal/Scambuster-GehennasEU/commit/2d5e508935abaa9f61723584c70a50991c527872
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1117981987689476207",
         category = "gdkp",
     },
@@ -3179,8 +3183,9 @@ t.case_table = {
     {
         players={
             {
-                name= "Bundê",
+                name= "Bundè",
                 guid= "Player-4476-03E9A603",
+                aliases = {"Bundê"},
             },
         },
         description = "Ninja'd offspec tier item in VoA in a spec run",
@@ -3224,6 +3229,95 @@ t.case_table = {
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1133502411823128597",
         category = "raid",
     },
+    {
+        players={
+            {
+                name= "Dashuria",
+                guid= "Player-4476-044BEE56",
+                --aliases= {},
+            },
+        },
+        description = "Ninjaed items and overall bad raid leading, trying to sell items afterwards that were ninjaed",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1133502411823128597",
+        category = "gdkp",
+    },
+    {
+        players={
+            {
+                name= "Luckylocky",
+                guid= "Player-4476-039C0909",
+                --aliases= {},
+            },
+        },
+        description = "Multiple cases of scamming, pot-skimming and consistently hosting ultra fiesta runs",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1135500102191030334",
+        category = "gdkp",
+    },
+    {
+        players={
+            {
+                name= "Survio",
+                guid= "Player-4476-04B0B91D",
+                aliases= {"Matumbamann"},
+            },
+        },
+        description = "Multiple instances of scamming and stealing entire gdkp pots",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1137475190805254225",
+        category = "gdkp",
+    },
+    {
+        players={
+            {
+                name= "Bestofluck",
+                guid= "Player-4476-049F9827",
+                --aliases= {},
+            },
+        },
+        description = "Ninjaing bis legs for himself in TOC 25 HC",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1138048308284227584",
+        category = "raid",
+    },
+    {
+        players={
+            {
+                name= "Ungamar",
+                guid= "Player-4476-038FAF27",
+                --aliases= {},
+            },
+        },
+        description = "Intentionally Griefing 50/50 Chest by running into Anub",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1139297230113738762",
+        category = "raid",
+    },
+    {
+        players={
+            {
+                name= "Ninidruid",
+                guid= "Player-4476-044036D4",
+                --aliases= {},
+            },
+            {
+                name= "Kikatu",
+                guid= "Player-4476-04BBE3F4",
+                aliases= {"Ninipala"},
+            },
+        },
+        description = "Stealing entire GDKP pot",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1139550667573297202",
+        category = "gdkp",
+    },
+    {
+        players={
+            {
+                name= "Zakitwo",
+                guid= "Player-4476-04F82565",
+                --aliases= {},
+            },
+        },
+        description = "Scamming dungeon boosts",
+        url = "https://discord.com/channels/611132910992490506/895978320095748107/1139202944076615680",
+        category = "dungeon",
+    },
     --[[ TEMPLATE COPY IT AND PASTE IT ABOVE THIS TEMPLATE FOR EASIER FORMATTING
     --COPY BELOW
     {
@@ -3231,6 +3325,7 @@ t.case_table = {
             {
                 name= "NAME",
                 guid= "GUID",
+                --aliases= {},
             },
         },
         description = "SHORT REASON",
