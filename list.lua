@@ -3318,6 +3318,19 @@ t.case_table = {
         url = "https://discord.com/channels/611132910992490506/895978320095748107/1139202944076615680",
         category = "dungeon",
     },
+    {
+        players={
+            {
+                name= "Narniaa",
+                guid= "Player-4476-03A57BED",
+                --aliases= {},
+            },
+        },
+        description = "Stealing entire ToC pot",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1141790465885216821",
+        --timestamp = time({year=2023,month=8,day=17}),
+        category = "gdkp",
+    },
     --[[ TEMPLATE COPY IT AND PASTE IT ABOVE THIS TEMPLATE FOR EASIER FORMATTING
     --COPY BELOW
     {
