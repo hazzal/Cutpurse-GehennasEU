@@ -2505,8 +2505,9 @@ t.case_table = {
     {
         players={
             {
-                name= "Bozorrg",
+                name= "Forkboybad",
                 guid= "Player-4476-04AD3593",
+                aliases={"Bozorrg"},
             },
         },
         description = "Denying bids to keep item for himself, trading no cut and incomplete cuts to players",
@@ -3330,6 +3331,61 @@ t.case_table = {
         url = "https://discord.com/channels/611132910992490506/998986805477126324/1141790465885216821",
         --timestamp = time({year=2023,month=8,day=17}),
         category = "gdkp",
+    },
+    {
+        players={
+            {
+                name= "Zoomitx",
+                guid= "Player-4476-045EC065",
+                --aliases= {},
+            },
+            {
+                name= "Nightinay",
+                guid= "Player-4476-04F4BDA0",
+                --aliases= {},
+            },
+            {
+                name= "Orcishh",
+                guid= "Player-4476-03B46077",
+                --aliases= {},
+            },
+            {
+                name= "Strik",
+                guid= "Player-4476-04949FDC",
+                --aliases= {},
+            },
+            {
+                name= "Tomtchi",
+                guid= "Player-4476-04E38685",
+                --aliases= {},
+            },
+            {
+                name= "Devilfighter",
+                guid= "Player-4476-0467C933",
+                --aliases= {},
+            },
+            {
+                name= "Outlaaw",
+                guid= "Player-4476-043D3552",
+                --aliases= {},
+            },
+            
+        },
+        description = "Multiple instances of scimming cut, keeping unbid items for himself (upgrades), overall intelligible",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1143287675235872929",
+        category = "gdkp",
+    },
+    {
+        players={
+            {
+                name= "Alexandròs",
+                guid= "Player-4476-051213B1",
+                --aliases= {},
+            },
+        },
+        description = "Ninjaed all items in an SR run and pretended to fake DC. Later seen with items equipped",
+        url = "https://discord.com/channels/611132910992490506/998986805477126324/1148678205742518354",
+        category = "raid",
     },
     --[[ TEMPLATE COPY IT AND PASTE IT ABOVE THIS TEMPLATE FOR EASIER FORMATTING
     --COPY BELOW
